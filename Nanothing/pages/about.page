@@ -1,0 +1,127 @@
+  <!-- About Us  Area -->
+  
+
+  <div class="about-title content-area-l10-3 bg-blue">
+    <div class="content-area-l10-2-shape-1" style="background-color: #F9FAFB;">
+        <img src="assets/image/l1/shape2.svg" alt="" class="w-100">
+      </div>
+    <div class="container">
+      <div class="row align-items-center justify-content-center">
+        <div class="col-lg-10 col-md-12 pt-lg-5 mt-lg-4">
+            <div class="content section__heading text-center">
+              <h1>About Us</h1>
+               
+            </div>
+        </div>
+        
+      </div>
+    </div>
+    <div class="price-l10-shape" style="background-color: #2aace3 ">
+        <img src="assets/image/l1/price-black-shape.svg" alt="" class="w-100">
+      </div>
+</div>
+
+    <!-- Content Area-1  -->
+    <div class="content-area-l-12-1 pt-3 pb-4">
+        <div class="container">
+            <div class="row align-items-center justify-content-center row-content">
+                <div class="offset-xl-1 col-xl-5 col-lg-5 col-md-10 order-0 order-lg-0">
+                <div class="content-img position-relative">
+                    <div class="main-img">
+                    <img src="assets/image/ab-img-1.svg" alt="" class="w-100">
+                    </div>
+                    <div class="content-area-l-12-shape d-none d-md-block">
+                    <img src="assets/image/l6/shape-6.svg" alt="" class="w-100">
+                    </div>
+                </div>
+                </div>
+                <div class="offset-xxl-1 col-xxl-4 col-xl-5 col-lg-7 col-md-12 order-1 order-lg-1">
+                <div class="content section__heading">
+                    <h2>
+                      Our Mission
+                    </h2>
+                    <p>Our mission is to reduce global cold chain waste by empowering companies with the visibility they need to make data driven improvements.</p>
+                </div>
+                </div>
+            </div>
+
+            <div class="row align-items-center justify-content-center row-content">
+                <div class="offset-xl-1 col-xxl-4 col-xl-5 col-lg-7 col-md-12 order-1 order-lg-0">
+                    <div class="content section__heading">
+                    <h2>
+                      Our Philosophy
+                    </h2>
+                    <p>We believe that connected sensors will revolutionize nearly every industry by enabling data driven insights that would be impossible without them. Our goal is to fuel the industry with the knowledge and resources it needs to make true mass sensor adoption a reality. </p>
+                    </div>
+                </div>
+                <div class="offset-xxl-1 col-xl-5 col-lg-5 col-md-10 order-0 order-lg-1">
+                    <div class="content-img position-relative">
+                        <div class="main-img">
+                            <img src="assets/image/ab-ic-2.svg" alt="" class="w-100">
+                        </div>
+                        <div class="content-area-l-12-shape d-none d-md-block">
+                            <img src="assets/image/l6/shape-6.svg" alt="" class="w-100">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            
+        </div>
+
+        <div class="container journey-section">
+            <div class="row align-items-center justify-content-center row-content">
+                <div class="col-12 col-lg-10 col-xxl-9">
+                    <div class="content section__heading text-center">
+                        <h2>Our Journey</h2>
+                        <p>
+                          One of the largest opportunities for connected sensors is in the logistics industry, where trillions of dollars of product is wasted every year due to improper quality control. Over the years, myriad sensor based solutions have tried and failed to make an impact. And the reasons have always been the same. The sensors cost too much, and they were too cumbersome to manage.
+                          <br><br>
+                          In 2018, we crossed paths with a company named United States Cold Storage, one of the largest and most reputable cold storage companies in North America. They had been searching for a solution to one of the cold chain industry’s largest challenges: ensuring quality control of millions of perishable shipments without a scalable and reliable sensor technology. 
+                          <br><br>
+                          After hearing stories of data loggers that would regularly malfunction, catch on fire, and still relied on CD ROM based software, we knew there was a serious need for better sensor technology. We spent six months shadowing US Cold, learning the ins and outs of the industry, and not realizing how much of our immediate future would be spent freezing our rears off in the world’s largest freezers.
+                          <br><br>
+                          Rather than build a sensor with off the shelf components, we made the painstaking decision to build from the ground up. The first challenge we tackled was cost. We took a page out of the RFID playbook and concluded that the cheapest way to make sensors is by printing them. But while passive RFID tags are small and cheap, they are extremely limited in function and range. We wanted more. So we invented an entirely new type of sensor, one that can transmit over ten miles, perform advanced edge based functions, and live for years, all in the size of a credit card.
+                          <br><br>
+                          Then, we built the first autonomous connected sensor standard, a firmware and software duo that work seamlessly together to enable completely autonomous sensor function.
+                          <br><br>
+                          Now that Phase 1 development is complete, we’re excited to embark on the next phase of our journey by opening our technology to the world to use and build on top of for free.
+                          <br><br>
+                          We welcome you to join us on our journey as we strive to reduce global waste and provide better traceability for companies and consumers throughout the cold chain.  
+                        </p>
+                     </div>
+                </div>
+            </div>
+
+            <!-- <div class="row content-area-l4-12 justify-content-center no-gutters">
+                <div class="col-lg-6 col-md-10 order-1 order-lg-0">
+                  <div class="contant-area-2-l4-content bg-mirage">
+                    <p>After hearing stories of industry standard data loggers that would regularly malfunction, catch on fire, and still relied on CD ROM based software, we knew there was serious need for a better sensor technology. We spent six months shadowing US Cold, learning the ins and outs of the industry, and not realizing how much of our immediate future would be spent freezing our rears off in the world’s largest freezers. But before long, we had created the first prototype of what would later be known as the NanoTag, an ultra small, ultra scalable, long range wireless temperature sensor. </p>
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-10 d-flex order-0 order-lg-1">
+                  <div class="contant-area-2-l4-content-image">
+                    <img class="w-100" src="assets/image/b-5.jpg" alt="image">
+                  </div>
+                </div>
+            </div>
+            <div class="row content-area-l4-12 justify-content-center no-gutters">
+                <div class="col-lg-6 col-md-10 d-flex order-0 order-lg-0">
+                    <div class="contant-area-2-l4-content-image">
+                      <img class="w-100" src="assets/image/b-4.jpg" alt="image">
+                    </div>
+                  </div>
+                <div class="col-lg-6 col-md-10 order-1 order-lg-1">
+                  <div class="contant-area-2-l4-content bg-mirage">
+                    <p>Testing of the NanoTag was long and arduous. We ran hundreds of tests and made countless adjustments over the next year before finding the right recipe. In the summer of 2019, we launched with Trident Seafoods, the largest seafood company in North America. 
+                        <br><br>
+                        Fast forward to today. We feel privileged to be working with many of the largest food companies in the world. 
+                        <br><br>
+                        We welcome you to join us on our journey as we strive to reduce global waste and provide better traceability for companies and consumers throughout the cold chain. </p>
+                  </div>
+                </div>
+                
+            </div> -->
+        </div>
+    </div>

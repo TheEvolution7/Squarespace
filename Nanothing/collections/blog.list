@@ -1,0 +1,107 @@
+
+<div class="inner-service-banner">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xxl-7 col-xl-8 col-lg-10 col-md-10">
+        <div class="section-heading-14 text-center">
+          <h1>News and Blog</h1>
+          <p>We offer an effective combination of broad customer service expertise and deep product knowledge
+            to ensure customer experience</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{.section categoryFilter}
+  <p class="filtered-by">Filtered by Category: {@|safe}</p>
+{.end}
+
+{.section tagFilter}
+  <p class="filtered-by">Filtered by Tag: {@|safe}</p>
+{.end}
+
+{.if authorFilter}
+  <p class="filtered-by">Filtered by Author: {author.displayName}</p>
+{.end}
+<div class="blog-category-area blog-regular-area">
+  <div class="container">
+    <div class="row blog-regular-items">
+    <!-- item loop -->
+      {.repeated section items}
+        <div class="blog-list-item {@|item-classes} col-lg-4 col-md-6" id="post-{id}" data-item-id="{id}">
+          <div class="blog-card">
+            <div class="blog-image">
+              <!-- main image (thumbnail) -->
+              {.main-image?}
+                <a href="{fullUrl}"><img class="w-100" {@|image-meta}></a>
+                </a>
+              {.end}
+            </div>
+            <div class="blog-content">
+              <h6><time datetime="{addedOn|date %F}">{addedOn|date %B %d, %Y}</time></h6>
+               {.passthrough?}
+                    <a href="{sourceUrl}" target="_blank">
+                      <h4  data-content-field="title">{title}</h4>
+                    </a>
+                {.or}
+                  <a href="{fullUrl}">
+                    <h4  data-content-field="title">{title}</h4>
+                  </a>
+                {.end}
+            </div>
+          </div>
+        </div>
+
+      {.or}
+
+        <!-- no items means no blog posts -->
+        <div class="col-12">
+          <p><em>No blog posts yet.</em></p>
+        </div>
+        
+
+      {.end}
+      
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-xl-6 col-lg-7 col-md-6 col-sm-8 col-xs-10">
+        <div class="blog-reg-pagination-area">
+        <!-- pagination -->
+        {.if pagination}
+           <ul class="list-unstyled pagination-list d-flex justify-content-center">
+
+            <!-- newer page -->
+            {.if pagination.prevPage}
+              <li class="d-flex justify-content-center">
+                <a href="{pagination.prevPageUrl}">Newer</a>
+              </li>
+            {.or}
+              <li class="d-flex justify-content-center">
+                <a class="disabled">Newer</a>
+              </li>
+              
+            {.end}
+
+            <!-- older page -->
+            {.if pagination.nextPage}
+            <li class="d-flex justify-content-center">
+                <a href="{pagination.nextPageUrl}">Older</a>
+              </li>
+              
+            {.or}
+            <li class="d-flex justify-content-center">
+                <a class="disabled">Older</a>
+              </li>
+              
+            {.end}
+
+          </ul>
+        {.end}
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

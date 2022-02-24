@@ -1,0 +1,699 @@
+<div class="hero-area-l1 ntss-page nanotag-bg  position-relative background-property">
+      <!-- <div class="bg-shape">
+        <img src="assets/image/BG-shape.png" alt="">
+      </div> -->
+      <div class="ani-img">
+        <img src="assets/image/nano/svg-nano.svg" alt="">
+      </div>
+      <div class="container">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10 order-lg-1 order-1">
+            <div class="content text-center">
+              <h2>The NanoTag</h2>
+              <p>The world's first printed autonomous temperature sensor</p>
+             
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+
+
+
+    
+    
+    <div class="sub-page-title" style="padding-top: 30px; padding-bottom: 30px;">
+        
+        <div class="container">
+          <div class="row justify-content-center mt-lg-5 mb-lg-5 mt-4 mb-2">
+            <div class="col-xxl-8 col-xl-10 col-lg-10 col-md-11">
+              <div class="section-heading-14 text-center">
+                <div class="nano-slider owl-carousel">
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/img-1.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/1.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/2.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/3.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/4.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/5.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/6.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/7.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/8.jpeg" alt="">
+                  </div>
+                </div>
+
+                <div class="thumb-nail-nano owl-carousel">
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/img-1.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/1.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/2.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/3.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/4.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/5.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/6.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/7.jpeg" alt="">
+                  </div>
+                  <div class="logo-title img-nano-title">
+                    <img src="assets/image/nano/album/8.jpeg" alt="">
+                  </div>
+                </div>
+                
+                
+                <!-- <a data-fancybox="gallery" class="btn btn-style-02 mt-3 mt-lg-5" data-src="assets/image/nano/img-1.jpeg"  data-caption="Title-1" href="javascript:;">More NanoTag Images</a>
+                <div class="box-gallery-img">
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/1.jpeg" data-caption="Title-2">
+                    <img src="assets/image/nano/album/1.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/2.jpeg" data-caption="Title-3">
+                    <img src="assets/image/nano/album/2.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/3.jpeg" data-caption="Title-4">
+                    <img src="assets/image/nano/album/3.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/4.jpeg" data-caption="Title-5">
+                    <img src="assets/image/nano/album/4.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/5.jpeg" data-caption="Title-6">
+                    <img src="assets/image/nano/album/5.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/6.jpeg" data-caption="Title-7">
+                    <img src="assets/image/nano/album/6.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/7.jpeg" data-caption="Title-8">
+                    <img src="assets/image/nano/album/7.jpeg" alt="">
+                  </a>
+                  <a data-fancybox="gallery" data-src="assets/image/nano/album/8.jpeg" data-caption="Title-9">
+                    <img src="assets/image/nano/album/8.jpeg" alt="">
+                  </a>
+                </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+
+    <div class="clients-area-l8 pb-lg-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+                  <div class="section__heading text-center">
+                    <h2>Build Your Solution Around the NanoTag</h2>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="container pt-lg-5 pt-3">
+            <div class="row align-items-center justify-content-center">
+              <div class="col-lg-5 col-md-8">
+                <div class="container-view">
+                  
+                  <div class="img-container">
+                    <div class="img360">
+                        <img id="myImg" src="assets/image/nano/view/tag_1.png" />
+                    </div>
+                  </div>
+                  <div class="caption">
+                  
+                  </div>
+                  <div id="preload-imgs"></div>
+                  <p class="text-center fst-italic">(Hold image and pan left or right to rotate the NanoTag)</p>
+                </div>
+              </div>
+              <div class="offset-xl-1 col-xl-6 col-lg-7 col-md-9">
+                <div class="content section__heading">
+                  <h4>NTSS Certified</h4>
+                  <p>The NanoTag is the first sensor powered by the NanoThings Sensor Standard (NTSS)</p>
+                  
+                  <div class="border-top mt-3 mb-3"></div>
+                  <h4>Hybrid Printed Manufacturing</h4>
+                  <p>NanoTags are manufactured with an innovative hybrid printing process. Developed and patented by NanoThings, hybrid printing is a manufacturing process that enables 10X the scalability of traditional electronics manufacturing. Key components like the antenna and connective circuitry are printed on a flexible substrate to reduce size and cost while enabling mechanical flexibility. Non printable components, like the silicon and an ultra thin flexible battery are surface mounted after the printing process.<br>
+
+                    The result is a device with a significantly smaller smaller form factor, carbon footprint, and cost to produce. </p>
+                  <div class="border-top mt-3 mb-3"></div>
+                  <h4>LoRaWAN Ready</h4>
+                  <p>The NanoTag has been extensively tested and commercially deployed across LoRaWAN in North America, Europe, and Asia. For North America, the NanoTag also comes FCC certified*.</p>
+                  <p class="small-content">*Any changes to the antenna, chip, or any other RF components of the NanoTag may void FCC certification. </p>
+                  
+                </div>
+              </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+    <div class="content-area-l10-3 bg-blue">
+        <div class="content-area-l10-2-shape-1" style="background-color: #fff;">
+            <img src="assets/image/l1/shape2.svg" alt="" class="w-100">
+          </div>
+        <div class="container">
+          <div class="row nano-row feature-l-11-items justify-content-center">
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex flex-column justify-content-center">
+                <div class="icon-box">
+                  <img src="assets/image/nano/7.svg" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Buttonless</h5>
+                  <p>Buttons add cost and user confusion. Users are 90% more likely to configure a device incorrectly when buttons are present. </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex flex-column justify-content-center">
+                <div class="icon-box">
+                  <img src="assets/image/nano/8.svg" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Activation Tab</h5>
+                  <p>The activation tab has a dual purpose. First and foremost, removing the activation tab activates the NanoTag. Secondly, the activation tab can be attached to paperwork as proof of use.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex flex-column justify-content-center">
+                <div class="icon-box">
+                  <img src="assets/image/nano/9.svg" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Flexible Substrate</h5>
+                  <p>100 micron thick PET film provides mechanical flexibility without compromising  tensile strength or durability. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="price-l10-shape" style="background-color: #2aace3 ">
+            <img src="assets/image/l1/price-black-shape.svg" alt="" class="w-100">
+          </div>
+    </div>
+
+    
+
+    <div class="service-area-l4-1">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-xl-8">
+              <div class="text-center section__heading">
+                <h2>Standard NanoTag Specifications</h2>
+                
+              </div>
+            </div>
+          </div>
+          <div class="row service-l4-card-items">
+            <div class="col-lg-4 col-md-6 d-flex">
+              <div class="service-l4-card">
+                <div class="content">
+                  <h4>Temperature Sensor</h4>
+                  <ul>
+                    <li><strong>Operating Range:</strong> -30°C to 60°C</li>
+                    <li><strong>Typical Accuracy (max):</strong> ± 0.5 °C (-10 °C to +60 °C)</li>
+                    <li><strong>Resolution:</strong> 0.1°C</li>
+                    <li><strong>Notes:</strong> The NanoTag can be equipped with different temperature sensors. A full list of compatible sensors is available in the NanoTag integration documentation.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex">
+              <div class="service-l4-card">
+                <div class="content">
+                  <h4>Battery</h4>
+                  <ul>
+                    <li><strong>Capacity:</strong> 600mAh</li>
+                    <li><strong>Chemistry:</strong> LiMnO2</li>
+                    <li><strong>Safety Standards:</strong> IEC 60086-4/GB 8897.4, IEC 62281</li>
+                    <li><strong>Notes:</strong> The NanoTag can operate on any battery chemistry that meets the minimum supply voltage requirements. </li>
+                  </ul>
+                </div>
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex">
+                <div class="service-l4-card">
+                  <div class="content">
+                    <h4>Memory</h4>
+                    <ul>
+                      <li><strong>Memory Type:</strong> Non-volatile flash</li>
+                      <li><strong>Storage Capacity:</strong> 24,000 temperature readings </li>
+                    </ul>
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex">
+                <div class="service-l4-card">
+                    <div class="content">
+                        <h4>Dimensions</h4>
+                        <ul>
+                          <li><strong>Measurements (max):</strong> 98 x 130 x 1.5 (mm)</li>
+                          <li><strong>Weight:</strong> 6.5 grams</li>
+                          <li><strong>Notes:</strong> Thickness of the NanoTag varies between 200 micron and 1.5mm. The thickest elements of the NanoTag are the SIP and battery. </li>
+                        </ul>
+                        <p>Dimensions can be modified. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex">
+              <div class="service-l4-card">
+                  <div class="content">
+                      <h4>Dimensions</h4>
+                      <ul>
+                        <li><strong>Inner Film:</strong> PET </li>
+                        <li><strong>Release Liner:</strong> 3M 467MP</li>
+                        <li><strong>Top Laminate:</strong> Neschen Solvoprint Performance 80 Nolite</li>
+                        <li><strong>Notes:</strong> Although the NanoTag is flexible, it is not recommended to bend the NanoTag. </li>
+                      </ul>
+                      <p>The NanoTag can be manufactured without release liner for applications that require easy removal or direct contact with food or water.</p>
+                  </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex">
+              <div class="service-l4-card">
+                  <div class="content">
+                      <h4>Communication Interface</h4>
+                      <ul>
+                        <li><strong>Protocol:</strong> LoRaWAN</li>
+                        <li><strong>Regions:</strong> US, Canada, Europe, Australia, Japan</li>
+                        <li><strong>Band:</strong> Sub-GHz ISM</li>
+                        <li><strong>Output Power (max):</strong> 20dBm</li>
+                      </ul>
+                  </div>
+              </div>
+            </div>
+            <div class="col-12 text-center pt-3">
+              <a target="_blank" class="btn btn-style-02 focus-reset" href="assets/pdf/nanotag.pdf">
+                Download the Data Sheet
+              </a>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <div class="content-area-l10-3 bg-blue">
+      <div class="content-area-l10-2-shape-1" style="background-color: #fff;">
+        <img src="assets/image/l1/shape2.svg" alt="" class="w-100">
+      </div>
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-lg-10 col-md-12 pt-lg-5 mt-lg-4">
+            <div class="content section__heading text-center">
+              <h2>A Device With Endless Use Cases</h2>
+            </div>
+          </div>
+
+        </div>
+        <div class="row feature-l-11-items justify-content-center">
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/nano/1.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Cold Chain Monitoring</h5>
+                <p>Cold chain monitoring for food, beverages, pharmaceuticals, chemicals, and more.</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/nano/2.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Inventory Monitoring</h5>
+                <p>Autonomous, scalable inventory monitoring.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/nano/3.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Asset Tracking</h5>
+                <p>Cost effective asset tracking without heavy installations. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/nano/4.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Parcel Tracking</h5>
+                <p>Anti-tampering protection, open notifications, and confirmed arrivals made possible.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/nano/5.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Smart Packaging</h5>
+                <p>Smart packaging made possible. Especially great for reusable packaging.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/nano/6.svg" alt="">
+                <!-- <i class="icon icon-pen-01"></i> -->
+              </div>
+              <div class="content-body">
+                <h5>Facility Monitoring</h5>
+                <p>Simple and scalable facility temperature mapping.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+
+      <div class="price-l10-shape" style="background-color: #2aace3 ">
+        <img src="assets/image/l1/price-black-shape.svg" alt="" class="w-100">
+      </div>
+    </div>
+
+    <div class="service-area-l4-1">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10 col-xl-8">
+            <div class="text-center section__heading">
+              <h2> The NanoTag vs. Other Devices</h2>
+
+            </div>
+          </div>
+        </div>
+        <div class="row service-l4-card-items justify-content-center">
+          <div class="col-12 col-xl-10">
+            <div class="table-responsive table-nanotag">
+              <table class="table text-successtable-border border-light">
+                <thead class="border-light">
+                  <tr>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col" class="title-table nanotag-active"><strong>NanoTag</strong></th>
+                    <th scope="col" class="title-table"><strong>Analog Data<br> Loggers</strong></th>
+                    <th scope="col" class="title-table"><strong>NFC<br> Tags</strong></th>
+                    <th scope="col" class="title-table"><strong>RFID<br> Tags</strong></th>
+                    <th scope="col" class="title-table"><strong>Bluetooth<br> Devices</strong></th>
+                    <th scope="col" class="title-table"><strong>Cellular<br> Devices</strong></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td rowspan="7" class="title-box">Capabilities</th>
+                    <th class="title-column" scope="row">Temperature Monitoring</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Impact/Fall/Tilt Monitoring</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Autonomous Arrival & Departure Tracking</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Autonomous Real Time Yard Monitoring</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Autonomous Real Time In-Facility Monitoring</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">First/Last Mile Location Tracking</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-check"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Multi-Leg Tracking</th>
+                    <td class="nanotag-active"><i class="fas fa-check"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                    <td><i class="fas fa-times"></i></td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row"></th>
+                    <td></td>
+                    <td class="nanotag-active"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td rowspan="4" class="title-box">Attributes</th>
+                    <th class="title-column" scope="row">Size</th>
+                    <td class="nanotag-active">Small</td>
+                    <td>Medium</td>
+                    <td>Small</td>
+                    <td>Small</td>
+                    <td>Medium</td>
+                    <td>Large</td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Battery Life</th>
+                    <td class="nanotag-active">
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/battery/6.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/battery/4.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        N/A
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        N/A
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/battery/5.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/battery/2.svg" alt="">
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Wireless Range</th>
+                    <td class="nanotag-active">
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/wifi/6.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        N/A
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/wifi/2.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/wifi/2.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/wifi/3.svg" alt="">
+                      </div>
+                    </td>
+                    <td>
+                      <div class="icon-btr">
+                        <img src="assets/image/nano/wifi/6.svg" alt="">
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th class="title-column" scope="row">Cost</th>
+                    <td class="nanotag-active">$</td>
+                    <td>$$</td>
+                    <td>$$</td>
+                    <td>$</td>
+                    <td>$$</td>
+                    <td>$$$$</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <!-- <div class="thumb-table">
+              <img src="assets/image/nano/table.svg" alt="">
+            </div> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.js"></script>
+  <script>
+    $(function() {
+
+        var num = 20; // the total number of images 
+
+        // Preload all the images into hidden div
+        for (var i=1 ; i<=num ; i++) {
+            var img = document.createElement('img');
+            img.src = 'assets/image/nano/view/tag_'+i+'.png';
+            document.getElementById('preload-imgs').appendChild(img);
+        }
+
+        // Control swipes using jquery.touchSwipe.min.js
+        // http://labs.rampinteractive.co.uk/touchSwipe/
+        var swipeOptions=
+        {
+            triggerOnTouchEnd : true,	
+            swipeStatus : swipeStatus,
+            allowPageScroll:"vertical",
+            threshold:75			
+        }
+
+        $(function()
+        {				
+            imgs = $(".img-container"); // the element that will be swipeable
+            imgs.swipe( swipeOptions );
+        });
+
+        function swipeStatus(event, phase, direction, distance) {
+            var duration = 0;
+            if(direction == "left") {
+              changeImg(distance);
+            }
+            else if (direction == "right") {
+              changeImgR(-distance);
+            }
+        }
+
+        function changeImg (imgNum) {
+
+            // divide by 8 (or any number) to spread 
+            // it out so it doesn't load new img 
+            // every single px of swipe distance
+            imgNum = Math.floor(imgNum/8); 
+
+            if (imgNum < 1) {
+              imgNum += num;
+            }
+            if (imgNum > num) {
+              imgNum -= num;
+            }
+
+            // change the image src
+            document.getElementById("myImg").src="assets/image/nano/view/tag_"+imgNum+".png";
+        }
+
+        function changeImgR (imgNum) {
+
+            // divide by 8 (or any number) to spread 
+            // it out so it doesn't load new img 
+            // every single px of swipe distance
+            imgNum = Math.floor(imgNum/12); 
+
+            var num2 = -Math.abs(num); 
+            if (imgNum > num2) {
+              imgNum += num;
+            }
+            if (imgNum <= num2) {
+              imgNum += num*2;
+            }
+
+            // change the image src
+            document.getElementById("myImg").src="assets/image/nano/view/tag_"+imgNum+".png";
+        }
+        })
+        
+        Fancybox.bind("[data-fancybox]", {
+          Thumbs: {
+            Carousel: {
+              Sync : {
+                friction: 0.9
+              }
+            },
+          },
+        });
+  </script>

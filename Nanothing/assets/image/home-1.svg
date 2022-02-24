@@ -1,0 +1,313 @@
+<svg class="cloud-animation" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px" viewbox="0 0 432 288" enable-background="new 0 0 432 288" xml:space="preserve">
+<style>
+.cloud-animation > .gear {
+  will-change: transform;
+}
+.cloud-animation > .gear.-large {
+  transform-origin: 77.4px 69.85px;
+  -webkit-animation: spin 9.905s linear infinite;
+          animation: spin 9.905s linear infinite;
+}
+.cloud-animation > .gear.-small {
+  transform-origin: 29.45px 32.85px;
+  -webkit-animation: spin-reverse 5.66s linear infinite;
+          animation: spin-reverse 5.66s linear infinite;
+}
+.cloud-animation > .tower {
+  stroke-width: 2.41pt;
+  stroke-linecap: round;
+  stroke-dasharray: 20pt 40pt;
+  stroke-dashoffset: 20pt;
+  -webkit-animation: stroke-anim 8.4s ease-out infinite;
+          animation: stroke-anim 8.4s ease-out infinite;
+  -webkit-animation-delay: 2.5s;
+          animation-delay: 2.5s;
+}
+.cloud-animation > .tower.-middle-2 {
+  -webkit-animation-delay: 2.6s;
+          animation-delay: 2.6s;
+}
+.cloud-animation > .tower.-middle-3 {
+  -webkit-animation-delay: 2.7s;
+          animation-delay: 2.7s;
+}
+.cloud-animation > .tower.-middle-4 {
+  -webkit-animation-delay: 2.8s;
+          animation-delay: 2.8s;
+}
+.cloud-animation > .tower.-middle-5 {
+  -webkit-animation-delay: 2.9s;
+          animation-delay: 2.9s;
+}
+.cloud-animation > .tower.-middle-6 {
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+}
+.cloud-animation > .tower.-middle-7 {
+  -webkit-animation-delay: 3.1s;
+          animation-delay: 3.1s;
+}
+.cloud-animation > .tower.-left-1 {
+  -webkit-animation-delay: 3.3s;
+          animation-delay: 3.3s;
+}
+.cloud-animation > .tower.-left-2 {
+  -webkit-animation-delay: 3.4s;
+          animation-delay: 3.4s;
+}
+.cloud-animation > .tower.-left-3 {
+  -webkit-animation-delay: 3.5s;
+          animation-delay: 3.5s;
+}
+.cloud-animation > .tower.-left-4 {
+  -webkit-animation-delay: 3.6s;
+          animation-delay: 3.6s;
+}
+.cloud-animation > .tower.-left-5 {
+  -webkit-animation-delay: 3.7s;
+          animation-delay: 3.7s;
+}
+.cloud-animation > .tower.-left-6 {
+  -webkit-animation-delay: 3.8s;
+          animation-delay: 3.8s;
+}
+.cloud-animation > .tower.-left-7 {
+  -webkit-animation-delay: 3.9s;
+          animation-delay: 3.9s;
+}
+.cloud-animation > .tower.-right-1 {
+  -webkit-animation-delay: 3.5s;
+          animation-delay: 3.5s;
+}
+.cloud-animation > .tower.-right-2 {
+  -webkit-animation-delay: 3.6s;
+          animation-delay: 3.6s;
+}
+.cloud-animation > .tower.-right-3 {
+  -webkit-animation-delay: 3.7s;
+          animation-delay: 3.7s;
+}
+.cloud-animation > .tower.-right-4 {
+  -webkit-animation-delay: 3.8s;
+          animation-delay: 3.8s;
+}
+.cloud-animation > .tower.-right-5 {
+  -webkit-animation-delay: 3.9s;
+          animation-delay: 3.9s;
+}
+.cloud-animation > .tower.-right-6 {
+  -webkit-animation-delay: 4s;
+          animation-delay: 4s;
+}
+.cloud-animation > .tower.-right-7 {
+  -webkit-animation-delay: 4.1s;
+          animation-delay: 4.1s;
+}
+.cloud-animation > .cloud1 {
+  stroke-dasharray: 615pt 615pt;
+  stroke-dashoffset: 820pt;
+  -webkit-animation: cloud1-anim 13s ease-in-out infinite;
+          animation: cloud1-anim 13s ease-in-out infinite;
+}
+.cloud-animation > .cloud2 {
+  stroke-dasharray: 186pt 186pt;
+  stroke-dashoffset: 186pt;
+  -webkit-animation: cloud2-anim 13s ease-in-out infinite;
+          animation: cloud2-anim 13s ease-in-out infinite;
+}
+
+@-webkit-keyframes spin {
+  100% {
+    transform: rotate3d(0, 0, 1, 360deg);
+  }
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate3d(0, 0, 1, 360deg);
+  }
+}
+@-webkit-keyframes spin-reverse {
+  100% {
+    transform: rotate3d(0, 0, 1, -360deg);
+  }
+}
+@keyframes spin-reverse {
+  100% {
+    transform: rotate3d(0, 0, 1, -360deg);
+  }
+}
+@-webkit-keyframes stroke-anim {
+  0% {
+    stroke-dashoffset: 20pt;
+  }
+  9.5238% {
+    stroke-dashoffset: -30pt;
+  }
+  100% {
+    stroke-dashoffset: -30pt;
+  }
+}
+@keyframes stroke-anim {
+  0% {
+    stroke-dashoffset: 20pt;
+  }
+  9.5238% {
+    stroke-dashoffset: -30pt;
+  }
+  100% {
+    stroke-dashoffset: -30pt;
+  }
+}
+@-webkit-keyframes cloud1-anim {
+  0% {
+    stroke-dashoffset: 615pt;
+  }
+  5% {
+    stroke-dashoffset: 615pt;
+  }
+  12.6923% {
+    stroke-dashoffset: 0pt;
+  }
+  13.8461% {
+    stroke-dashoffset: 0pt;
+  }
+  26.5384% {
+    stroke-dashoffset: -615pt;
+  }
+  100% {
+    stroke-dashoffset: -615pt;
+  }
+}
+@keyframes cloud1-anim {
+  0% {
+    stroke-dashoffset: 615pt;
+  }
+  5% {
+    stroke-dashoffset: 615pt;
+  }
+  12.6923% {
+    stroke-dashoffset: 0pt;
+  }
+  13.8461% {
+    stroke-dashoffset: 0pt;
+  }
+  26.5384% {
+    stroke-dashoffset: -615pt;
+  }
+  100% {
+    stroke-dashoffset: -615pt;
+  }
+}
+@-webkit-keyframes cloud2-anim {
+  0% {
+    stroke-dashoffset: 186pt;
+  }
+  6.9230% {
+    stroke-dashoffset: 0pt;
+  }
+  7.6923% {
+    stroke-dashoffset: 0pt;
+  }
+  14.6153% {
+    stroke-dashoffset: -186pt;
+  }
+  100% {
+    stroke-dashoffset: -186pt;
+  }
+}
+@keyframes cloud2-anim {
+  0% {
+    stroke-dashoffset: 186pt;
+  }
+  6.9230% {
+    stroke-dashoffset: 0pt;
+  }
+  7.6923% {
+    stroke-dashoffset: 0pt;
+  }
+  14.6153% {
+    stroke-dashoffset: -186pt;
+  }
+  100% {
+    stroke-dashoffset: -186pt;
+  }
+}
+  </style>
+  <defs>
+    <linearGradient id="left-gradient" gradientUnits="userSpaceOnUse" x1="161.9px" y1="0%" x2="197.5px" y2="0%">
+      <stop offset="0%" stop-color="#0095D3"></stop>
+      <stop offset="100%" stop-color="#98D95F"></stop>
+    </linearGradient>
+    <linearGradient id="middle-gradient" gradientUnits="userSpaceOnUse" x1="201px" y1="0%" x2="241px" y2="0%">
+      <stop offset="0%" stop-color="#0095D3"></stop>
+      <stop offset="100%" stop-color="#98D95F"></stop>
+    </linearGradient>
+    <linearGradient id="right-gradient" gradientUnits="userSpaceOnUse" x1="244.3px" y1="0%" x2="280px" y2="0%">
+      <stop offset="0%" stop-color="#0095D3"></stop>
+      <stop offset="100%" stop-color="#98D95F"></stop>
+    </linearGradient>
+    <linearGradient id="cloud1-gradient" gradientUnits="userSpaceOnUse" x1="33.5px" y1="0%" x2="425.8px" y2="0%">
+      <stop offset="0" stop-color="#0095D3"></stop>
+      <stop offset="100%" stop-color="#98D95F"></stop>
+    </linearGradient>
+    <linearGradient id="cloud2-gradient" gradientUnits="userSpaceOnUse" x1="297.3px" y1="0%" x2="430.5px" y2="0%">
+      <stop offset="0%" stop-color="#0095D3"></stop>
+      <stop offset="100%" stop-color="#98D95F"></stop>
+    </linearGradient>
+  </defs>
+  
+  <path fill="#FFF" d="M380.7 155.2c-1.4-30.7-27.4-54.4-58.1-53-2.3.1-4.6.3-6.8.7 0-17.9-6.6-35.1-18.6-48.3v99.3c0 4.4-3.5 7.9-7.9 7.9h-137c-4.4 0-7.9-3.5-7.9-7.9V69.4c-18.6 8-30.7 26.4-30.6 46.7v2c-44.8 1.7-80.3 38.5-80.3 83.4 0 2.8.1 5.6.4 8.4h391.2c4.4-25.5-12.7-49.7-38.2-54.1-2-.3-4.1-.5-6.2-.6z"></path>
+  <path fill="none" stroke="#89CBDF" stroke-width="2.7" d="M144.5 69.4c-18.7 8-30.8 26.5-30.7 46.8v2c-44.8 1.7-80.3 38.5-80.3 83.4 0 2.8.1 5.6.4 8.4h391.2c4.4-25.5-12.6-49.7-38.1-54.1-2.1-.4-4.2-.6-6.3-.7-1.4-30.7-27.4-54.4-58.1-53-2.3.1-4.6.3-6.8.7 0-17.9-6.6-35.1-18.6-48.3"></path>
+  <path class="cloud1" stroke="url(#cloud1-gradient)" fill="none" stroke-width="2.7" d="M144.5 69.4c-18.7 8-30.8 26.5-30.7 46.8v2c-44.8 1.7-80.3 38.5-80.3 83.4 0 2.8.1 5.6.4 8.4h391.2c4.4-25.5-12.6-49.7-38.1-54.1-2.1-.4-4.2-.6-6.3-.7-1.4-30.7-27.4-54.4-58.1-53-2.3.1-4.6.3-6.8.7 0-17.9-6.6-35.1-18.6-48.3"></path>
+  <path fill="none" stroke="#89CBDF" stroke-width="2.7" d="M297.3 17.3c7.7-7.2 17.8-11.1 28.3-11 21.2.6 38.7 17 40.5 38.2.2 2.2.2 4.4 0 6.6h12.2c15.5.1 28 12.6 28.1 28.1h1.8c12.3.1 22.2 10 22.3 22.3h-56.4"></path>
+  <path class="cloud2" stroke="url(#cloud2-gradient)" fill="none" stroke-width="2.7" d="M297.3 17.3c7.7-7.2 17.8-11.1 28.3-11 21.2.6 38.7 17 40.5 38.2.2 2.2.2 4.4 0 6.6h12.2c15.5.1 28 12.6 28.1 28.1h1.8c12.3.1 22.2 10 22.3 22.3h-56.4"></path>
+  <path fill="#FAFAFA" stroke="#919FA8" stroke-width="1.68" d="M238.1 27h47.4c1.9 0 3.4 1.5 3.4 3.4V149c0 1.9-1.5 3.4-3.4 3.4h-47.4c-1.9 0-3.4-1.5-3.4-3.4V30.4c0-1.9 1.5-3.4 3.4-3.4z" stroke-linecap="round"></path>
+  <path fill="#C1CDD4" d="M235.5 101.7V149c0 1.3 1.1 2.6 2.4 2.6h47.5c1.4 0 2.6-1.2 2.6-2.6V54.4l-52.5 47.3z" opacity=".3"></path>
+  <path fill="none" stroke="#C1CDD4" stroke-width="2.52" d="M235.5 129.1h52.6"></path>
+  <path fill="#C1CDD4" d="M280 113.5h-35.7c-.7 0-1.2-.5-1.2-1.2s.5-1.2 1.2-1.2H280c.7 0 1.2.5 1.2 1.2s-.5 1.2-1.2 1.2zm1.2-12.1c0-.7-.5-1.2-1.2-1.2h-35.7c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2H280c.7 0 1.2-.5 1.2-1.2zm0-10.8c0-.7-.5-1.2-1.2-1.2h-35.7c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2H280c.7 0 1.2-.5 1.2-1.2zm0-10.8c0-.7-.5-1.2-1.2-1.2h-35.7c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2H280c.7 0 1.2-.5 1.2-1.2zm0-10.8c0-.7-.5-1.2-1.2-1.2h-35.7c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2H280c.7 0 1.2-.5 1.2-1.2zm0-10.8c0-.7-.5-1.2-1.2-1.2h-35.7c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2H280c.7 0 1.2-.5 1.2-1.2zm0-10.8c0-.7-.5-1.2-1.2-1.2h-35.7c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2H280c.7 0 1.2-.5 1.2-1.2z"></path>
+  <path class="tower -right-7" d="M244.3 112.3H280" stroke="url(#right-gradient)"></path>
+  <path class="tower -right-6" d="M244.3 101.4H280" stroke="url(#right-gradient)"></path>
+  <path class="tower -right-5" d="M244.3 90.6H280" stroke="url(#right-gradient)"></path>
+  <path class="tower -right-4" d="M244.3 79.8H280" stroke="url(#right-gradient)"></path>
+  <path class="tower -right-3" d="M244.3 69H280" stroke="url(#right-gradient)"></path>
+  <path class="tower -right-2" d="M244.3 58.2H280" stroke="url(#right-gradient)"></path>
+  <path class="tower -right-1" d="M244.3 47.4H280" stroke="url(#right-gradient)"></path>
+  <circle cx="279.1" cy="36.2" r="2.2" fill="none" stroke="#C1CDD4" stroke-width="1.68" stroke-linecap="round"></circle>
+  <path fill="#FAFAFA" stroke="#919FA8" stroke-width="1.68" d="M155.7 27h47.4c1.9 0 3.4 1.5 3.4 3.4V149c0 1.9-1.5 3.4-3.4 3.4h-47.4c-1.9 0-3.4-1.5-3.4-3.4V30.4c0-1.9 1.5-3.4 3.4-3.4z" stroke-linecap="round"></path>
+  <path fill="#C1CDD4" d="M153.1 101.2v47.9c0 1.3 1.1 2.4 2.4 2.4h47.7c1.4 0 2.4-1.1 2.4-2.4V53.4l-52.5 47.8z" opacity=".3"></path>
+  <path fill="none" stroke="#C1CDD4" stroke-width="2.52" d="M153.1 129.1h52.6"></path>
+  <path fill="#C1CDD4" d="M198.7 112.3c0 .7-.5 1.2-1.2 1.2h-35.6c-.7 0-1.2-.5-1.2-1.2s.5-1.2 1.2-1.2h35.6c.7 0 1.2.5 1.2 1.2zm-1.2-12.1h-35.6c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h35.6c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2zm0-10.8h-35.6c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h35.6c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2zm0-10.8h-35.6c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h35.6c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2zm0-10.8h-35.6c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h35.6c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2zm0-10.8h-35.6c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h35.6c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2zm-35.6-8.4h35.6c.7 0 1.2-.5 1.2-1.2s-.5-1.2-1.2-1.2h-35.6c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2z"></path>
+  <path class="tower -left-7" d="M161.9 112.3h35.6" stroke="url(#left-gradient)"></path>
+  <path class="tower -left-6" d="M161.9 101.4h35.6" stroke="url(#left-gradient)"></path>
+  <path class="tower -left-5" d="M161.9 90.6h35.6" stroke="url(#left-gradient)"></path>
+  <path class="tower -left-4" d="M161.9 79.8h35.6" stroke="url(#left-gradient)"></path>
+  <path class="tower -left-3" d="M161.9 69h35.6" stroke="url(#left-gradient)"></path>
+  <path class="tower -left-2" d="M161.9 58.2h35.6" stroke="url(#left-gradient)"></path>
+  <path class="tower -left-1" d="M161.9 47.4h35.6" stroke="url(#left-gradient)"></path>
+  <path fill="#FAFAFA" stroke="#919FA8" stroke-width="1.68" d="M194 11.8h53.9c1.9 0 3.4 1.5 3.4 3.4v133.7c0 1.9-1.5 3.4-3.4 3.4H194c-1.9 0-3.4-1.5-3.4-3.4V15.2c0-1.9 1.5-3.4 3.4-3.4z" stroke-linecap="round"></path>
+  <path fill="#C1CDD4" d="M191.4 100.2v48.6c0 1.5 1.1 2.6 2.7 2.6h53.7c1.6 0 2.7-1.3 2.6-2.9v-104l-59 55.7z" opacity=".3"></path>
+  <path fill="none" stroke="#C1CDD4" stroke-width="2.52" d="M191.4 126.2h59.1"></path>
+  <path fill="#C1CDD4" d="M241 108.5h-40c-.7 0-1.2-.5-1.2-1.2s.5-1.2 1.2-1.2h40c.7 0 1.2.5 1.2 1.2s-.6 1.2-1.2 1.2zm1.2-13.3c0-.7-.5-1.2-1.2-1.2h-40c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h40c.6 0 1.2-.5 1.2-1.2zm0-12.1c0-.7-.5-1.2-1.2-1.2h-40c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h40c.6 0 1.2-.5 1.2-1.2zm0-12.1c0-.7-.5-1.2-1.2-1.2h-40c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h40c.6 0 1.2-.5 1.2-1.2zm0-12.2c0-.7-.5-1.2-1.2-1.2h-40c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h40c.6 0 1.2-.5 1.2-1.2zm0-12.1c0-.7-.5-1.2-1.2-1.2h-40c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h40c.6 0 1.2-.5 1.2-1.2zm0-12.1c0-.7-.5-1.2-1.2-1.2h-40c-.7 0-1.2.5-1.2 1.2s.5 1.2 1.2 1.2h40c.6 0 1.2-.5 1.2-1.2z"></path>
+  <path class="tower -middle-7" d="M201 107.2h40" stroke="url(#middle-gradient)"></path>
+  <path class="tower -middle-6" d="M201 95.1h40" stroke="url(#middle-gradient)"></path>
+  <path class="tower -middle-5" d="M201 83h40" stroke="url(#middle-gradient)"></path>
+  <path class="tower -middle-4" d="M201 70.9h40" stroke="url(#middle-gradient)"></path>
+  <path class="tower -middle-3" d="M201 58.8h40" stroke="url(#middle-gradient)"></path>
+  <path class="tower -middle-2" d="M201 46.7h40" stroke="url(#middle-gradient)"></path>
+  <path class="tower -middle-1" d="M201 34.6h40" stroke="url(#middle-gradient)"></path>
+  <circle cx="240.3" cy="22.1" r="2.4" fill="none" stroke="#C1CDD4" stroke-width="1.68" stroke-linecap="round"></circle>
+  <path fill="#A9B6BE" d="M163.4 41.7c-4.1 0-7.6 3.1-8.1 7.1h-40c-.6 0-1.1.5-1.1 1.1s.5 1.1 1.1 1.1h40c.5 4 3.9 7.1 8.1 7.1 4.5 0 8.2-3.7 8.2-8.2-.1-4.5-3.7-8.2-8.2-8.2z"></path>
+  <path fill="#FFF" d="M163.4 43.9c3.3 0 6 2.7 6 6s-2.7 6-6 6-6-2.7-6-6c-.1-3.3 2.7-6 6-6z"></path>
+  <path fill="#FAFAFA" d="M346.3 169.6c33.2 4.3 56.7 34.7 52.4 68s-34.7 56.7-68 52.4-56.7-34.7-52.4-68c3.9-30.3 29.7-53 60.3-52.9 2.6 0 5.1.2 7.7.5"></path>
+  <path fill="#E0EEAE" d="M370 194.8c9.2 7.6 15.2 18.4 16.7 30.3 3.3 25.9-15.1 49.5-40.9 52.7-1.9.2-3.9.4-5.9.4-8.9 0-17.7-2.5-25.2-7.3l55.3-76.1z"></path>
+  <path fill="#AADB1E" d="M377.3 200c-6.7-8.7-15.8-14.7-26.2-17.5-1-1.2-2.4-2-4.1-2-.9 0-1.8.3-2.6.7-1.9-.2-3.9-.4-5.8-.4-24.6-.1-45.5 18.3-48.7 42.6-1.7 13 1.8 25.8 9.7 36.2 8 10.4 19.5 17 32.5 18.7 2.2.3 4.3.4 6.5.4 10.7 0 21.1-3.5 29.7-10.1 10.4-8 17-19.5 18.7-32.5 1.7-12.9-1.7-25.8-9.7-36.1zm-11.4-3.2c-8.8-.2-18.9 1-29.5 3.4 2.3-3.9 4.7-7.4 7.1-10.5.9.8 2.1 1.3 3.4 1.3 2.7 0 4.9-2 5.2-4.6 5 1.6 9.7 4 13.8 7.2.1 1.1.1 2.2 0 3.2zm-7.9 32.5c-.9 2.2-1.8 4.4-2.8 6.6-2.4 5.3-5 10.3-7.8 15-5.4-1.6-10.9-3.6-16.4-6-2.7-1.2-5.2-2.3-7.7-3.6 0-.2.1-.4.1-.6 0-1.6-.7-3.1-1.9-4 1.1-4.3 2.5-8.7 4.1-13.2 2.7-7.4 5.9-14.4 9.3-20.5 11.1-2.7 21.8-4.1 30.9-3.9-.6 5.9-1.9 12.5-4 19.4-.3 0-.5-.1-.8-.1-3.2 0-5.8 2.6-5.8 5.8-.1 2.2 1.1 4.1 2.8 5.1zm-38.7 16.6c1.3-.3 2.4-1.2 3.1-2.3 2.4 1.2 4.9 2.3 7.6 3.5 5.4 2.3 10.8 4.3 16.1 5.9-5.8 9.2-12.1 16.7-18 21.1-3.5-.8-6.9-2.1-10.1-3.7-1-6.4-.5-15 1.3-24.5zM294 220.8c2.3-1.7 4.9-3.4 7.7-5 1 1.2 2.4 1.9 4.1 1.9 2.9 0 5.3-2.4 5.3-5.3 0-.4-.1-.9-.2-1.3 6.4-2.8 13.5-5.4 20.9-7.3-3.1 5.8-5.9 12.2-8.4 18.9-1.6 4.3-2.9 8.6-4 12.9-.4-.1-.8-.2-1.3-.2-1.3 0-2.5.5-3.4 1.3-8.4-4.8-15.3-10-20.7-15.6-.1-.1-.1-.2 0-.3zm74.4-25.2c.5.5 1.1 1 1.6 1.5-.5 0-1.1-.1-1.6-.1-.1-.5-.1-1 0-1.4zm-29.9-11.2h.1c1.1 0 2.2.1 3.3.1-.1.4-.2.8-.2 1.3 0 .7.1 1.4.4 2-3 3.7-6 8.2-8.9 13.2-.7.2-1.4.3-2.1.5-7.6 2-14.9 4.6-21.5 7.6-1-1.2-2.4-1.9-4-1.9-2.9 0-5.3 2.4-5.3 5.3 0 .4.1.8.2 1.2-2 1.2-4 2.4-5.8 3.6 5.6-19.2 23.3-32.9 43.8-32.9zM293.4 224c5.3 5.2 11.9 10.1 19.7 14.6-.3.7-.5 1.4-.5 2.1 0 2.6 1.8 4.7 4.2 5.2-1.6 8.7-2.1 16.7-1.4 23-15.1-8.9-24.4-26.3-22-44.9zm72.7 41.8c-9.6 7.4-21.5 10.6-33.6 9-.4-.1-.9-.1-1.3-.2 5.8-4.7 11.8-12 17.3-21 4.4 1.2 8.7 2.2 12.7 2.9v.1c0 2.2 1.8 4 4 4 1.9 0 3.5-1.4 3.9-3.2 1.7.1 3.3.2 4.8.2h.4c-2.3 3.1-5.1 5.8-8.2 8.2zm17.4-30.1c-.9 7.1-3.5 13.8-7.4 19.6-2.2.1-4.6 0-7.2-.2-.6-1.4-2-2.4-3.7-2.4-1.3 0-2.5.6-3.2 1.6-3.9-.6-8-1.6-12.3-2.7 2.7-4.6 5.3-9.5 7.6-14.7 1-2.3 2-4.6 2.9-6.8h.7c3.2 0 5.8-2.6 5.8-5.8 0-2.1-1.1-3.9-2.7-4.9 2.2-7.1 3.6-14 4.2-20.1 1.5.1 2.9.2 4.3.4.7.8 1.4 1.6 2 2.5 7.4 9.5 10.6 21.5 9 33.5z"></path>
+  <path fill="#A9B6BE" d="M309.7 254.1h-82.1c-2.9 0-5.2-2.8-5.2-6.3v-51.5c4-.5 7.1-4 7.1-8.1 0-4.5-3.7-8.2-8.2-8.2s-8.2 3.7-8.2 8.2c0 4.1 3.1 7.6 7.1 8.1v51.5c0 4.7 3.3 8.5 7.4 8.5h82.1c.6 0 1.1-.5 1.1-1.1s-.5-1.1-1.1-1.1zm-94.5-65.9c0-3.3 2.7-6 6-6s6 2.7 6 6-2.7 6-6 6c-3.2 0-6-2.7-6-6z"></path>
+  <path fill="#FAFAFA" d="M370.2 86.1s-32.7-11.2-32.7-43.6V19s5.6-1.1 17.4-6.7C363.7 8.1 370.2 0 370.2 0s6.5 8.1 15.3 12.3c11.8 5.6 17.4 6.7 17.4 6.7v23.5c.1 32.4-32.7 43.6-32.7 43.6z"></path>
+  <path fill="#00D4B8" d="M370.2 9s5.2 6.4 12.1 9.7c9.3 4.4 13.8 5.3 13.8 5.3v18.6c0 25.6-25.9 34.5-25.9 34.5V9z" opacity=".3"></path>
+  <path fill="none" stroke="#00D4B8" stroke-width="2.13" d="M370.2 77.1s-25.9-8.8-25.9-34.5V24s4.5-.9 13.8-5.3C365 15.4 370.2 9 370.2 9s5.2 6.4 12.1 9.7c9.3 4.4 13.8 5.3 13.8 5.3v18.6c0 25.6-25.9 34.5-25.9 34.5z" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path fill="none" stroke="#00D4B8" stroke-width="3" d="M356.8 41.7l10.6 10.6 18.8-18.8" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path fill="#A9B6BE" d="M370.1 81.3c-.6 0-1.1.5-1.1 1.1v32.9c0 2.9-2.8 5.2-6.3 5.2h-45.1c-.5-4-3.9-7.1-8.1-7.1-4.5 0-8.2 3.7-8.2 8.2s3.7 8.2 8.2 8.2c4.1 0 7.6-3.1 8.1-7.1h45.1c4.7 0 8.5-3.3 8.5-7.4V82.4c0-.6-.5-1.1-1.1-1.1zm-60.6 46.3c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.7 6-6 6z"></path>
+  <path class="gear -large" fill="#FAFAFA" stroke="#00B7D6" stroke-width="2.4" d="M115.9 65.1l-.8-4.3c-.1-.4-.4-.7-.8-.7l-5.4-.6c-.3-.1-.6-.3-.7-.6-.5-1.3-1-2.5-1.6-3.7-.1-.3-.1-.6.1-.9l3.4-4.3c.3-.3.3-.8 0-1.1l-2.5-3.5c-.2-.3-.6-.4-1-.3l-5.1 1.8c-.3.1-.7 0-.9-.2-1-1-2-1.9-3.1-2.8-.3-.2-.4-.6-.3-.9l1.1-5.3c.1-.4-.1-.8-.4-1l-3.8-2.1c-.4-.2-.8-.1-1.1.2l-3.8 3.8c-.2.4-.6.4-.9.3l-4-1.1c-.4-.1-.6-.3-.7-.7L82.4 32c-.1-.4-.4-.7-.8-.7l-4.5-.1c-.4 0-.8.2-.9.6l-1.7 5c-.1.3-.4.5-.7.6l-4.1.6c-.3.1-.7 0-.9-.3l-3.3-4.1c-.2-.3-.6-.4-1-.3l-4 1.7c-.3.2-.5.6-.5 1l.6 5.2c.1.4-.1.7-.4.9-1.2.8-2.3 1.6-3.4 2.5-.3.2-.6.2-.9.1l-4.7-2.2c-.3-.1-.7-.1-1 .2L47.3 46c-.3.2-.3.7-.1 1l2.5 4.3c.2.3.2.7 0 1l-1.1 1.9-.9 1.9c-.2.3-.5.5-.8.5h-5.3c-.4 0-.7.3-.8.6l-1.2 4.2c-.1.4.1.8.4 1l4.4 2.8c.3.2.5.5.4.9-.2 1.4-.2 2.8-.2 4.2 0 .3-.2.6-.5.8l-4.7 2.3c-.4.2-.6.6-.5 1l.8 4.3c.1.4.4.7.8.7l5.2.6c.3.1.6.3.7.6.4 1.3 1 2.6 1.6 3.9.1.3.1.6-.1.9l-3.2 4.1c-.3.3-.3.8 0 1.1l2.6 3.5c.2.3.6.4 1 .3l5-1.8c.3-.1.7 0 .9.2 1 1 2.1 1.9 3.2 2.8.3.2.4.6.3.9l-1.1 5.2c-.1.4.1.8.4 1l3.8 2.1c.4.2.8.1 1.1-.2l3.8-3.8c.2-.2.6-.3.9-.2l4 1.1c.4.1.6.3.7.7l1.2 5.2c.1.4.4.7.8.7l4.3.2c.4 0 .8-.2.9-.6l1.8-5.1c.1-.3.4-.5.7-.6l4-.7c.3-.1.7 0 .9.3l3.4 4.2c.2.3.6.4 1 .3l4-1.7c.3-.2.5-.5.5-.9l-.6-5.4c-.1-.4.1-.7.4-.9 1.2-.7 2.4-1.5 3.5-2.3.3-.2.6-.2.9-.1l4.9 2.3c.3.1.7.1 1-.2l2.9-3.3c.3-.3.3-.8.1-1.1l-2.9-4.6c-.2-.3-.2-.6 0-.9l1-1.7.9-1.8c.2-.3.5-.5.8-.5h5.5c.4 0 .7-.3.8-.6l1.2-4.2c.1-.4-.1-.8-.4-1l-4.6-2.9c-.3-.2-.5-.5-.4-.9.1-1.3.2-2.7.2-4-.1-.4.1-.8.5-1l4.9-2.4c.4-.3.6-.7.5-1.1zM77.4 85.8c-8.9 0-16.1-7.2-16.1-16.1s7.2-16.1 16.1-16.1 16.1 7.2 16.1 16.1-7.2 16.1-16.1 16.1z"></path>
+  <path class="gear -small" fill="#AADB1E" d="M48.3 32.6c-.1-3-.8-6-2.3-8.7l4.2-3.9-2.9-3.7-4.8 3c-2.2-2.1-4.8-3.6-7.7-4.5l.2-5.7-4.6-.6-1.3 5.5c-3 0-6 .8-8.7 2.2L16.6 12l-3.7 2.8 3 4.8c-2.1 2.2-3.7 4.9-4.6 7.8l-5.6-.2-.6 4.6 5.4 1.2c0 3.1.8 6.1 2.3 8.8l-4.1 3.8 2.8 3.8 4.7-2.9c2.2 2.1 4.9 3.7 7.8 4.6l-.2 5.5 4.6.6 1.3-5.4c3.1 0 6.1-.8 8.8-2.3l3.8 4.1 3.7-2.8-3-4.8c2.2-2.2 3.7-4.9 4.6-7.9l5.6.4.6-4.6-5.5-1.3zM29.4 43.7c-6 0-10.8-4.8-10.8-10.8S23.5 22 29.4 22s10.8 4.8 10.8 10.8-4.8 10.9-10.8 10.9z"></path>
+</svg>

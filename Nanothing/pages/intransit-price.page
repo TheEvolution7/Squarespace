@@ -1,0 +1,106 @@
+ <div class="pricing-area-l-15 position-relative" style="background: url(assets/image/l5/l5-pricing-bg.png)">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class=" col-xl-6 col-lg-8 col-md-9 col-xs-10">
+            <div class="section-heading-9 text-center">
+              <!-- <h6>NTSS Pricing</h6> -->
+              <h2>In-Transit Monitoring</h2>
+            </div>
+          </div>
+        </div>
+        <div class="pricing-area-l-15-items row justify-content-center">
+          <div class=" col-xl-4 col-lg-5 col-md-6 col-xs-8">
+            <div class="single-table l-15-table-1">
+              <div class="table-head">
+                <div class="table-top d-flex align-items-center justify-content-between mb-8">
+                  <span>NTSS Essential</span>
+                </div>
+                <div class="main-price">
+                  <div class="price d-flex position-relative ">
+                    <span></span>
+                    <h2>Free</h2>
+                  </div>
+                  <p></p>
+                </div>
+                <div class="table-body">
+                  <ul class="pricing-list list-unstyled">
+                    <li><i class="fas fa-check"></i> Data loss protection </li>
+                    <li><i class="fas fa-check"></i> Arrival & departure notifications </li>
+                    <li><i class="fas fa-check"></i> Daily health message </li>
+                    <li><i class="fas fa-check"></i> Automatic battery drain </li>
+                    <li><i class="fas fa-check"></i> Real time monitoring at every checkpoint </li>
+                    <li><i class="fas fa-check"></i> Wirelessly configurable routes</li>
+                    <li><i class="fas fa-check"></i> Wirelessly configurable temperature thresholds </li>
+                    <li><i class="fas fa-check"></i> Customizable temperature and delayed arrival alerts</li>
+
+                    <li class="event-list">
+                      <div class="title-list">
+                        <i class="fas fa-check"></i> Event Detections: 
+                      </div> 
+                      <ul>
+                        <li>- Origin </li>
+                        <li>- In-transit</li>
+                        <li>- Destination</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <div class="table-btn focus-reset">
+                  <a class="btn btn-style-02 focus-reset" href="#">Get started</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=" col-xl-4 col-lg-5 col-md-6 col-xs-8">
+            <div class="single-table l-15-table-2">
+              <div class="table-head">
+                <div class="table-top d-flex align-items-center justify-content-between">
+                  <span>NTSS Advanced</span>
+                  <span class="popular-item">Popular</span>
+                </div>
+                <div class="main-price">
+                  <div class="price d-flex  position-relative ">
+                    <span>$</span>
+                    <h2>100<span>/month/location*</span></h2>
+                  </div>
+                  <p>NTSS Advanced gives you everything included in NTSS Essential, plus additional autonomous event
+                    detections</p>
+                </div>
+                <div class="table-body">
+                  <ul class="pricing-list list-unstyled">
+                    <li><i class="fas fa-check"></i> Source-to-Store Tracking</li>
+                    <li><i class="fas fa-check"></i> Intercontinental support </li>
+                    <li class="event-list">
+                      <div class="title-list">
+                        <i class="fas fa-check"></i> Event Detections: 
+                      </div> 
+                      <ul>
+                        <li>- Yard </li>
+                        <li>- Unload</li>
+                        <li>- Rejection</li>
+                        <li>- Return</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+                <div class="table-btn focus-reset">
+                  <a class="btn btn-style-02 focus-reset" href="#">Get started</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 text-center">
+            <p>*Location: any stop throughout the cold chain. E.g. product origin and product destination</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Contact form Area -->
+    <div class="newsletter-area-l-12 position-relative pb-0 pt-5">
+        <div class="curve-image-l1">
+          <img src="assets/image/landing-1/white-shape.svg" alt="image" class="w-100">
+        </div>
+        <div class="container">
+        </div>
+      </div>

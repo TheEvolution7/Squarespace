@@ -1,0 +1,100 @@
+<header class="sub-page-header site-header site-header--menu-right landing-1-menu site-header--absolute site-header--sticky">
+      <div class="container-fluid">
+        <nav class="navbar site-navbar">
+          <!-- Brand Logo-->
+          <div class="brand-logo">
+            <a href="/">
+              <img src="/assets/image/logo/logo.svg" alt="" class="light-version-logo">
+            </a>
+          </div>
+          <div class="menu-block-wrapper">
+            <div class="menu-overlay"></div>
+            <nav class="menu-block" id="append-menu-header">
+              <div class="mobile-menu-head">
+                <div class="go-back">
+                  <i class="fa fa-angle-left"></i>
+                </div>
+                <div class="current-menu-title"></div>
+                <div class="mobile-menu-close">&times;</div>
+              </div>
+              <ul class="site-menu-main">
+                <li class="nav-item nav-item-has-children">
+                  <a href="javascript:;" class="nav-link-item drop-trigger">Solutions<i class="fas fa-angle-down"></i>
+                  </a>
+                  <ul class="sub-menu" id="submenu-1">
+                    <li class="sub-menu--item">
+                      <a href="/ntss-in-transit">NTSS In-Transit</a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/ntss-static">NTSS Static</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item nav-item-has-children">
+                  <a href="javascript:;" class="nav-link-item drop-trigger">Technology<i class="fas fa-angle-down"></i>
+                  </a>
+                  <ul class="sub-menu" id="submenu-2">
+                    <li class="sub-menu--item">
+                      <a href="/nanotag">NanoTag</a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/ntss">NTSS</a>
+                    </li>
+                  </ul>
+                </li>
+                <!-- <li class="nav-item nav-item-has-children">
+                  <a href="javascript:;" class="nav-link-item drop-trigger">Pricing<i class="fas fa-angle-down"></i>
+                  </a>
+                  <ul class="sub-menu" id="submenu-3">
+                    <li class="sub-menu--item">
+                      <a href="/nano-price">NanoTag </a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/intransit-price">NTSS In-Transit</a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/static-price">NTSS Static</a>
+                    </li>
+                  </ul>
+                </li> -->
+                <li class="nav-item nav-item-has-children">
+                  <a href="javascript:;" class="nav-link-item drop-trigger">Company<i class="fas fa-angle-down"></i>
+                  </a>
+                  <ul class="sub-menu" id="submenu-4">
+                    <li class="sub-menu--item">
+                      <a href="/about">About Us</a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/team">Leadership Team</a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/support">Support</a>
+                    </li>
+                    <li class="sub-menu--item">
+                      <a href="/faqs">FAQs</a>
+                    </li>
+                    <!-- <li class="sub-menu--item">
+                      <a href="/help">Help & Tutorials</a>
+                    </li>-->
+                  </ul>
+                </li>
+                <!-- <li class="nav-item nav-item-has-children">
+                  <a href="/blog" class="nav-link-item drop-trigger">Blog
+                  </a>
+                </li> -->
+              </ul>
+            </nav>
+          </div>
+          <!-- <div class="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+            <a target="_blank" class="btn btn log-in-btn btn-style-02 focus-reset" href="nano-price">
+              Get started
+            </a>
+          </div> -->
+          <!-- mobile menu trigger -->
+          <div class="mobile-menu-trigger">
+            <span></span>
+          </div>
+          <!--/.Mobile Menu Hamburger Ends-->
+        </nav>
+      </div>
+</header>

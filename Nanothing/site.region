@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+
+  <head>
+
+    {squarespace-headers}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Bootstrap , fonts & icons  -->
+    <style>
+      @font-face {
+        font-family: 'Font Awesome 5 Brands';
+        font-style: normal;
+        font-weight: normal;
+        font-display: auto;
+        src: url("/assets/fonts/fontawesome-5/webfonts/fa-brands-400.eot");
+        src: url("/assets/fonts/fontawesome-5/webfonts/fa-brands-400-.eot#iefix") format("embedded-opentype"), url("/assets/fonts/fontawesome-5/webfonts/fa-brands-400.woff2") format("woff2"), url("/assets/fonts/fontawesome-5/webfonts/fa-brands-400.woff") format("woff"), url("/assets/fonts/fontawesome-5/webfonts/fa-brands-400.ttf") format("truetype"), url("/assets/fonts/fontawesome-5/webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
+      @font-face {
+        font-family: 'Font Awesome 5 Free';
+        font-style: normal;
+        font-weight: 400;
+        font-display: auto;
+        src: url("/assets/fonts/fontawesome-5/webfonts/fa-regular-400.eot");
+        src: url("/assets/fonts/fontawesome-5/webfonts/fa-regular-400-.eot#iefix") format("embedded-opentype"), url("/assets/fonts/fontawesome-5/webfonts/fa-regular-400.woff2") format("woff2"), url("/assets/fonts/fontawesome-5/webfonts/fa-regular-400.woff") format("woff"), url("/assets/fonts/fontawesome-5/webfonts/fa-regular-400.ttf") format("truetype"), url("/assets/fonts/fontawesome-5/webfonts/fa-regular-400.svg#fontawesome") format("svg"); }
+      @font-face {
+        font-family: 'Font Awesome 5 Free';
+        font-style: normal;
+        font-weight: 900;
+        font-display: auto;
+        src: url("/assets/fonts/fontawesome-5/webfonts/fa-solid-900.eot");
+        src: url("/assets/fonts/fontawesome-5/webfonts/fa-solid-900-.eot#iefix") format("embedded-opentype"), url("/assets/fonts/fontawesome-5/webfonts/fa-solid-900.woff2") format("woff2"), url("/assets/fonts/fontawesome-5/webfonts/fa-solid-900.woff") format("woff"), url("/assets/fonts/fontawesome-5/webfonts/fa-solid-900.ttf") format("truetype"), url("/assets/fonts/fontawesome-5/webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+      
+    </style>
+    <link rel="stylesheet" href="/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="/assets/fonts/icon-font/css/style.css">
+    
+    <link rel="stylesheet" href="/assets/fonts/fontawesome-5/css/all-icon.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- Plugin'stylesheets  -->
+    <link rel="stylesheet" href="/assets/css/aos.min.css">
+    <link rel="stylesheet" href="/assets/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="/assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="/assets/css/slick.min.css">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/assets/css/fancybox.css">
+    <!-- Vendor stylesheets  -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/custom.min.css?v=1642019213077">
+    
+    <!-- Vendor Scripts -->
+    <squarespace:script src="vendor.min.js" />
+    <!-- Plugin's Scripts -->
+    <squarespace:script src="jquery.fancybox.min.js" />
+    <squarespace:script src="jquery.nice-select.min.js" />
+    <squarespace:script src="aos.min.js" />
+    <squarespace:script src="slick.min.js" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+    <squarespace:script src="jquery.counterup.min.js" />
+    <squarespace:script src="isotope.pkgd.min.js" />
+    <squarespace:script src="packery.pkgd.min.js" />
+    <squarespace:script src="image.loaded.js" />
+    
+    <squarespace:script src="owl.carousel.min.js" />
+    <squarespace:script src="fancybox.js" />
+   
+    
+    
+    
+  </head>
+
+  <body data-theme-mode-panel-active data-theme="light" style="font-family: 'Open Sans';">
+   
+    <squarespace:navigation navigationId="menuheader" template="header" />
+
+    <div class="site-wrapper overflow-hidden position-relative">
+      <main class="content">
+        <section id="page" role="main" data-content-field="main-content">
+          {squarespace.main-content}
+        </section>
+      </main>
+    </div>
+
+    <squarespace:navigation navigationId="menufooter" template="footer" />
+
+
+
+   
+
+    <!-- Activation Script -->
+    <squarespace:script src="menu.js" />
+    <squarespace:script src="custom.js" />
+
+    <script>
+      $(document).ready(function() {
+        $('img').each(function() {
+          var imageDataSource = $(this).data('src');
+          var setImageSource = $(this).attr('src', imageDataSource);
+        });
+      })
+      
+    </script>
+
+    
+    
+
+    
+    
+    
+  </body>
+
+</html>

@@ -1,0 +1,422 @@
+<!-- Hero Area -->
+    <div class="hero-area-l1  position-relative background-property">
+      <!-- <div class="bg-shape">
+        <img src="assets/image/BG-shape.png" alt="">
+      </div> -->
+      <div class="container">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10 order-lg-1 order-1">
+            <div class="content">
+              <h2>Autonomous source-to-store temperature monitoring powered by a new sensor standard</h2>
+              <!-- <p>Autonomous source-to-store temperature monitoring powered by a new sensor standard</p> -->
+              <div class="l1-create-acc-btn">
+                <a href="/ntss" class="btn btn-style-02">Learn more <i class="fas fa-angle-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="offset-xxl-0 col-xxl-6 col-xl-6 col-lg-6 col-md-8 order-lg-1 order-0">
+            <div class="ani-svg">
+              
+                <div class="globe js-globe">
+                    <div class="svg-wrapper">
+                    </div>
+                
+                
+                    <ul class="globe-list js-list"></ul>
+                    <canvas class="globe-canvas js-canvas"></canvas>
+                </div>
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="video-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="inner-about-bg-area">
+              <div class="bg-image">
+                <div id="background-video" class="video-container" style="background-image: url(assets/image/video.png);">
+                  <div onclick="play();" id="vidwrap">
+                    <i class="fas fa-play font-size-7"></i>
+                  </div>
+                </div>
+              </div>
+              <script type="text/javascript">
+                function play(){
+                  document.getElementById('vidwrap').innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/yqnZYCpzsQw?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+                }
+              </script>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Content Area-1 -->
+    <div class="content-are-l1-1 bg-grey" id="ntss-st">
+      <div class="curve-image-l1">
+        <img src="assets/image/landing-1/white-shape-top.svg" alt="image" class="w-100">
+      </div>
+      <div class="container pt-lg-5 pt-3">
+        <div class="row justify-content-center">
+          <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10 order-2 order-lg-1 d-flex align-items-center">
+            <div class="content-area-l1-image-group">
+              <div class="image-1">
+                <img class="w-100" src="assets/image/home-3.svg" alt="image">
+              </div>
+            </div>
+          </div>
+          <div class="offset-xxl-1 col-xxl-5 col-xl-6 col-lg-6 col-md-10 order-0 order-lg-1 d-flex align-items-center">
+            <div class="content-box-l1-1 section__heading">
+              <div class="counter-js">
+                <h2>The NanoThings Sensor Standard</h2>
+                
+                <p>NTSS is a global temperature monitoring standard for connected devices communicating over LoRaWAN. </p>
+                <!-- <div id="countdown">
+                  <ul>
+                    <li><span id="days"></span>days</li>
+                    <li><span id="hours"></span>Hours</li>
+                    <li><span id="minutes"></span>Minutes</li>
+                    <li><span id="seconds"></span>Seconds</li>
+                  </ul>
+                </div> -->
+              </div>
+              
+              <!-- <div class="l1-get-start-btn">
+                <a href="javascript:;"  data-bs-toggle="modal" data-bs-target="#modal-signup" class="btn btn-style-02">Join the waitlist <i class="fas fa-angle-right"></i></a>
+              </div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="content-area-2-l1 position-relative">
+      
+      <div class="container">
+        <div class="row justify-content-lg-start justify-content-center align-items-center">
+          <div class="offset-xxl-1 col-xxl-4 offset-xl-1 col-xl-5 col-lg-6 col-md-10">
+            <div class="content-area-l9-2-image position-relative">
+              <div class="main-image svg-img-1">
+                <img class="w-100" src="assets/image/nano-ani.svg" alt="image">
+              </div>
+              <!-- <div class="shape-image d-none d-sm-block">
+                <img src="assets/image/landing-9/shape-2.png" alt="image">
+              </div> -->
+            </div>
+          </div>
+          <div class="offset-xxl-1 col-xxl-4 offset-xl-1 col-xl-5 col-lg-6 col-md-10">
+            <div class="content section__heading">
+              <h2>The NanoTag</h2>
+              <p>An autonomous temperature monitoring smart label that can store 24,000 temperature readings, live for years, and transmit up to 10 miles.  </p>
+              <div class="l1-create-acc-btn">
+                <a href="/nanotag" class="btn btn-style-02">Learn more <i class="fas fa-angle-right"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Content Area-2  -->
+    <div class="content-area-l9-2 position-relative bg-alabaster">
+      <div class="content-area-l9-2-shape d-none d-lg-block">
+        <img src="assets/image/landing-9/contnet-2-curve.svg" alt="curve">
+      </div>
+      <div class="container">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10">
+            <div class="content-box-2-l1 section__heading">
+              <h2>NTSS LoRaWAN 1.0</h2>
+              <p>Release date: Coming Soon</p>
+              <ul class="list-unstyled number-content-box-l1">
+                <li class="d-flex align-items-start">
+                  <div class="number">
+                    <span>1</span>
+                  </div>
+                  <div class="content">
+                    <h4>Edge Autonomy</h4>
+                    <p>NTSS LoRaWAN 1.0 is a supply chain traceability standard built on top of the LoRaWAN specification. It provides the interface between sensor data and the cloud, allowing any LoRa-enabled data logger to autonomously operate between two locations. The standard features device point to point wireless management, ensuring that all the logged data is securely and reliably provided to any application through our API. </p>
+                  </div>
+                </li>
+                <li class="d-flex align-items-start">
+                  <div class="number number--2">
+                    <span>2</span>
+                  </div>
+                  <div class="content">
+                    <h4>Ease of Integration</h4>
+                    <p>The standard for the edge is built on top of Semtech's LoRaWAN end-device stack reference implementation (LoRaMAC-node) and can be easily integrated into any LoRa-enabled device. It has built-in support for a variety of microcontrollers and a user friendly interface for adding more. On the cloud side, everything is handled by us and the sensor data and device information are available through our APIs.</p>
+                  </div>
+                </li>
+              </ul>
+              <br><br>
+              
+            </div>
+          </div>
+          <div class="offset-xxl-1 col-xxl-5 offset-xl-1 col-xl-5 col-lg-6 col-md-10">
+            <div class="content-2-l1-image-group">
+              <div class="image-1">
+                <img class="w-100" src="assets/image/home-2.svg" alt="image">
+              </div>
+              <!-- <div class="image-2">
+                <img class="w-100" src="assets/image/img-2.svg" alt="image">
+              </div> -->
+            </div>
+            <div class="section__heading pt-3">
+              <h3>NTSS is going open access</h3>
+              <!-- <p>Sign up for the waitlist</p> -->
+              <div class="l1-get-start-btn">
+                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#modal-signup" class="btn btn-style-02">Join the waitlist <i class="fas fa-angle-right"></i></a>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+
+    <!-- Testimonial Area -->
+    <div class="testimonial-area-l2">
+      <div class="curve-image-l1">
+        <img src="assets/image/landing-1/white-shape.svg" alt="image" class="w-100">
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-5 col-lg-6 col-md-8">
+            <div class="section__heading">
+              <h2>Customer Testimonials </h2>
+            </div>
+          </div>
+          <div class="col-xl-7 col-lg-6 col-md-4">
+            <div class="l2-slider-arrow-1 text-end">
+              <i class="prevl2  fas fa-angle-left slick-arrow slick-active"></i>
+              <i class="nextl2 fas fa-angle-right slick-arrow"></i>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div class="testimonial-slider-l2-1">
+              <div class="single-item focus-reset">
+                <div class="testimonial-l2-single-card">
+                  <div class="user-image">
+                    <img src="assets/image/c-1.jpeg" alt="image">
+                  </div>
+                  <div class="content">
+                    <p>“The NanoTags have proven to be a great value throughout the entire handling process.”</p>
+                  </div>
+                  <div class="user-identity d-xs-flex text-center text-xs-start align-items-center">
+                    <div class="user-details">
+                      <h4>Joe Apodaca</h4>
+                      <span>Manager, Refrigerated/Frozen Warehouse Services</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="single-item focus-reset">
+                <div class="testimonial-l2-single-card">
+                  <div class="user-image">
+                    <img src="assets/image/c-2.jpeg" alt="image">
+                  </div>
+                  <div class="content">
+                    <p>“The NanoThings technology saves us time and gives us the traceability we need to ensure we’re
+                      always providing the best service to our customers.”</p>
+                  </div>
+                  <div class="user-identity d-xs-flex text-center text-xs-start align-items-center">
+                    
+                    <div class="user-details">
+                      <h4> Sam Spicher</h4>
+                      <span> VP Business Development</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="single-item focus-reset">
+                <div class="testimonial-l2-single-card">
+                  <div class="user-image">
+                    <img src="assets/image/c-3.jpeg" alt="image">
+                  </div>
+                  <div class="content">
+                    <p>“NanoThings has developed a novel LoRa-based connected temperature and impact detection sensor
+                      using printed electronics, enabling end-to-end visibility and traceability in the cold-chain
+                      industry, and allowing for increased automation and quality control.”</p>
+                  </div>
+                  <div class="user-identity d-xs-flex text-center text-xs-start align-items-centerr">
+                    
+                    <div class="user-details">
+                      <h4>Patrick van Eijk</h4>
+                      <span>Director of IoT Solutions</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="single-item focus-reset">
+                <div class="testimonial-l2-single-card">
+                  <div class="user-image">
+                      <img src="assets/image/c-4.jpeg" alt="image">
+                    </div>
+                  <div class="content">
+                    <p>“We’ve integrated our leading Food Safety and Quality Management Supply Chain tools with the NanoThings temperature monitoring solution to provide cutting edge cold chain management and visibility.”</p>
+                  </div>
+                  <div class="user-identity d-xs-flex text-center text-xs-start align-items-center">
+                    
+                    <div class="user-details">
+                      <h4>Jez Pile</h4>
+                      <span>Director of Cold Chain</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+
+    <!-- <div class="blog-section">
+      <div class="inner-service-banner">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xxl-7 col-xl-8 col-lg-10 col-md-10">
+              <div class="section__heading text-center">
+                <h2>News and Blog</h2>
+                <p>We offer an effective combination of broad customer service expertise and deep product knowledge
+                  to ensure customer experience</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="blog-category-area blog-regular-area">
+        <div class="container">
+          <div class="row blog-regular-items">
+            <div class="col-lg-4 col-md-6">
+              <div class="blog-card">
+                <div class="blog-image">
+                  <a href="#"><img class="w-100" src="assets/image/b-1.jpg" alt=""></a>
+                </div>
+                <div class="blog-content">
+                  <a href="#">
+                    <h6>Sep 02, 2021</h6>
+                  </a>
+                  <a href="#">
+                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="blog-card">
+                <div class="blog-image">
+                  <a href="#"><img class="w-100" src="assets/image/b-2.jpg" alt=""></a>
+                </div>
+                <div class="blog-content">
+                  <a href="#">
+                    <h6>Sep 02, 2021</h6>
+                  </a>
+                  <a href="#">
+                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="blog-card">
+                <div class="blog-image">
+                  <a href="#"><img class="w-100" src="assets/image/b-3.jpg" alt=""></a>
+                </div>
+                <div class="blog-content">
+                  <a href="#">
+                    <h6>Sep 02, 2021</h6>
+                  </a>
+                  <a href="#">
+                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="btn-area d-flex justify-content-center">
+                <a href="/blog" class="btn btn-style-02 focus-reset">View more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <!-- Contact form Area -->
+    <!-- <div class="newsletter-area-l-12 position-relative pt-0">
+      <div class="curve-image-l1">
+        <img src="assets/image/landing-1/white-shape.svg" alt="image" class="w-100">
+      </div>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xl-6 col-lg-8 col-md-10">
+            <div class="text-center">
+              <h2>Start building with NanoThings</h2>
+            </div>
+            <div class="btn-area d-flex justify-content-center">
+              <a href="/nano-price" class="btn btn-style-02 focus-reset">Get Started</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+
+<div class="modal fade" id="modal-signup" tabindex="-1" aria-labelledby="modal-signupLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modal-signupLabel">Stay up to date with developments and be notified when NTSS goes open access</h5>
+          <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+        </div>
+        <div class="modal-body">
+          <div class="bg-catskill subscribe-newsletter">
+            <squarespace:block-field id="blockField5" columns="12" lock-layout="false"/>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-style-02 __1" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<squarespace:script src="three.js" />
+  <squarespace:script src="ThreeOrbitControls.js" />
+  <squarespace:script src="THREE.MeshLine.js" />
+  <squarespace:script src="globe.js" />
+<!--<script>
+    
+    
+</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js">
+</script>
+<script type="text/javascript">
+ $(document).ready(function() {
+     if ($.cookie('pop') == null) {
+        console.log('done')
+         $.cookie('pop', '7');
+         $(window).on('load', function() {
+            setTimeout(() => {
+                $('#modal-signup').modal('show')
+            }, 10000);
+            
+          })
+     }
+ });
+</script>-->

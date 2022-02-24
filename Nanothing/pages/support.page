@@ -1,0 +1,71 @@
+<!-- Contact  Area -->
+<div class="inner-pages-banner">
+  <div class="container">
+    <div class="row justify-content-center justify-content-lg-start">
+      <div class="col-xxl-6 col-xl-6 col-lg-7 col-md-10">
+        <div class="section-heading-14 text-center text-lg-start">
+          <h2>Get in Touch</h2>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Contact form Area -->
+<div class="inner-contact-form-area-1">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12089.254210033134!2d-73.99492953175817!3d40.75512787932722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259ab29218b1d%3A0x34803c530c7340ec!2s1460%20Broadway%2C%20New%20York%2C%20NY%2010036!5e0!3m2!1sen!2sus!4v1634711667506!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.3133677779056!2d-73.9883635844496!3d40.75513194291212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259ab29218b1d%3A0x34803c530c7340ec!2s1460%20Broadway%2C%20New%20York%2C%20NY%2010036!5e0!3m2!1sen!2sus!4v1633585121786!5m2!1sen!2sus&z=20&ie=UTF8&iwloc=&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
+  <div class="container">
+    <div class="row justify-content-lg-end justify-content-center">
+      <div class="col-lg-5 col-md-8">
+        <div class="inner-con-form-card-1">
+          <div class="inner-contact-form-1">
+            <squarespace:block-field id="blockField4" columns="12" lock-layout="false" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="hero-curve-shape-l9 d-none d-lg-block">
+              <img src="assets/image/landing-9/cta-curve.svg" alt="curve">
+            </div> -->
+</div>
+<div class="inner-contact-2-items-area">
+  <div class="container">
+    <div class="row justify-content-center inner-contact-2-items-area-items">
+      <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="card-area d-xs-flex">
+          <div class="icon-box">
+            <img src="assets/image/contact/fluent_location-48-filled.png">
+          </div>
+          <div class="content-box">
+            <h4>Visit Us</h4>
+            <p>1460 Broadway, <br>Suite 14034 New York,<br> NY 10036</p>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="card-area d-xs-flex">
+                      <div class="icon-box">
+                        <img src="assets/image/contact/ic_round-call.png">
+                      </div>
+                      <div class="content-box">
+                        <h4>Call us</h4>
+                        <p>+1-234-5678</p>
+                      </div>
+                    </div>
+                  </div> -->
+      <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="card-area d-xs-flex">
+          <div class="icon-box">
+            <img src="assets/image/contact/dashicons_email-alt.png">
+          </div>
+          <div class="content-box">
+            <h4>Email us</h4>
+            <p>info@nanothingsinc.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

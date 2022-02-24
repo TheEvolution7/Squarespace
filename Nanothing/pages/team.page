@@ -1,0 +1,128 @@
+<div class="about-area-team sub-page-title">
+        <div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+              <div class="section-heading-14 text-center">
+                <h2>Meet the Team</h2>
+              </div>
+            </div>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+              <div class="section__heading text-center">
+                <h2>Leadership Team</h2>
+              </div>
+            </div>
+          </div>
+          <div class="row justify-content-center about-area-team-items mb-4">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/Tim.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Tim Williams</h4>
+                  <span>Co-Founder & CEO</span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/David.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>David Gruber</h4>
+                  <span>Co-Founder & COO</span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/Dylan.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Dylan Shea</h4>
+                  <span>Head of Software</span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/Lucas.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Lucas Santolin</h4>
+                  <span>Lead Embedded Systems Engineer</span>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="row justify-content-center mt-5">
+            <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+              <div class="section__heading text-center">
+                <h2>Advisors</h2>
+              </div>
+            </div>
+          </div>
+
+          <div class="row justify-content-center about-area-team-items">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/Allen.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Allen Gruber</h4>
+                  <span>Business Advisor </span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/Greg.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Greg Titus</h4>
+                  <span>Business Advisor</span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/joe.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Josep Jornet</h4>
+                  <span>Technical Advisor</span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-6">
+              <div class="team-card overflow-hidden">
+                <div class="image">
+                  <img class="w-100" src="assets/image/team/Jos.png" alt="image">
+                </div>
+                <div class="content text-center">
+                  <h4>Jon Scanlon</h4>
+                  <span>Business & Legal Advisor</span>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>

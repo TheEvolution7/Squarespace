@@ -1,0 +1,61 @@
+<footer class="footer-area-l-12 position-relative">
+      <div class="container">
+        <div class="footer-l-12-top-border"></div>
+        <div class="row justify-content-center footer-l1-area-items">
+          <div class="col-xl-6 col-lg-4 col-md-12 col-xs-12 col-12 order-2 order-lg-0">
+            <div class="footer-content-l9 text-sm-center text-lg-start">
+              <a href="/" class="logo-footer">
+                <img src="assets/image/logo/logo.svg" alt="image">
+              </a>
+              <p>1460 Broadway, Suite 14034
+                New York, NY 10036</p>
+              <a href="mailto:info@nanothingsinc.com">info@nanothingsinc.com</a>
+              
+              <ul class="list-unstyled footer-social-icon-l2">
+                <li><a href="https://www.facebook.com/NanoThingsInc/"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://twitter.com/nanothingsinc"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://www.linkedin.com/company/nanothingsinc"><i class="fab fa-linkedin-in"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-2 col-lg-3 col-md-4 col-xs-4 col-6 order-2 order-lg-1">
+            <h3>Company</h3>
+            <ul class="list-unstyled">
+              <li><a href="/about">About Us</a></li>
+              <li><a href="/team">Leadership Team</a></li>
+              <li><a href="/support">Support</a></li>
+              <li><a href="/faqs">FAQs</a></li>
+              <!-- <li><a href="/help">Help & Tutorials</a></li> -->
+            </ul>
+          </div>
+          <div class="col-xl-2 col-lg-2 col-md-4 col-xs-4 col-6 order-3 order-lg-2">
+            <h3>Technology</h3>
+            <ul class="list-unstyled">
+              <li><a href="/nanotag">NanoTag</a></li>
+              <li><a href="/ntss">NTSS</a></li>
+            </ul>
+          </div>
+          <div class="col-xl-2 col-lg-3 col-md-4 col-xs-4 col-12 order-4 order-lg-3">
+            <h3>Solutions</h3>
+            <ul class="list-unstyled ">
+              <li><a href="/ntss-in-transit">NTSS In-Transit</a></li>
+              <li><a href="/ntss-static">NTSS Static</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="footer-l-12-top-border __1"></div>
+        <div class="footer-copyright-wrapper">
+          <div class="footer-copyright-wrapper-col">
+            
+            <div class="paragraph small footer-chainlinkreg">
+              © 2021 NanoThings, Inc. NanoThings is a registered trademark of NanoThings, Inc.
+            </div>
+          </div>
+          <div class="footer-copyright-wrapper-col footer-privacyandterms"><a href="/privacy-policy"
+              class="paragraph small footer-copyright">Privacy Policy</a><a href="/terms"
+              class="paragraph small footer-copyright">Terms of Use</a></div>
+        </div>
+      </div>
+    </footer>

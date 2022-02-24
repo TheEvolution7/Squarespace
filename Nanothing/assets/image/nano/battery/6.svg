@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.3 264">
+    <style>
+        .col-btr path.it-btr {
+            animation: flash 3s infinite;
+            opacity: 0;
+        }
+        .col-btr path.it-btr:nth-child(2) {
+            animation-delay: .2s;
+        }
+        .col-btr path.it-btr:nth-child(3) {
+            animation-delay: .4s;
+        }
+        .col-btr path.it-btr:nth-child(4) {
+            animation-delay: .6s;
+        }
+        .col-btr path.it-btr:nth-child(5) {
+            animation-delay: .8s;
+        }
+        .col-btr path.it-btr:nth-child(6) {
+            animation-delay: 1s;
+        }
+        @keyframes flash {
+            0% {
+                opacity: 0
+            }
+            50% {
+                opacity: 1
+            }
+            100% {
+                opacity: 0
+            }
+        }
+    </style>
+    <title>6</title>
+    <g id="e9371261-fdd1-4fe0-9f76-ac493b5e5225" data-name="Layer 2">
+        <g class="col-btr" id="e025f312-d409-4080-b855-69dd78e5ba3e" data-name="Levels">
+            <path
+                d="M111.8,14.7H85.5V10.6A10.6,10.6,0,0,0,74.9,0H54.4A10.6,10.6,0,0,0,43.8,10.6v4.1H17.5A17.5,17.5,0,0,0,0,32.2V246.5A17.5,17.5,0,0,0,17.5,264h94.3a17.5,17.5,0,0,0,17.5-17.5V32.2A17.5,17.5,0,0,0,111.8,14.7Zm8.1,231.8a8.1,8.1,0,0,1-8.1,8.1H17.5a8.1,8.1,0,0,1-8.1-8.1V32.2a8.1,8.1,0,0,1,8.1-8.1h94.3a8.1,8.1,0,0,1,8.1,8.1Z"
+                fill="#262626" />
+            <path class="it-btr" d="M104,245.2a6.5,6.5,0,0,0,6.5-6.6V204c0-3.4-2.8-4.5-6.4-2.5L29.9,245.2Z" fill="#00d383" />
+            <path class="it-btr"
+                d="M104.1,191.4l-79,46.5c-3.5,2-6.3.9-6.3-2.5V204.1c0-3.4,2.8-7.8,6.3-9.9l79-46.4c3.6-2.1,6.4-1,6.4,2.4v31.3C110.5,184.9,107.7,189.4,104.1,191.4Z"
+                fill="#00d383" />
+            <path class="it-btr"
+                d="M104.1,137.7l-79,46.4c-3.5,2.1-6.3,1-6.3-2.4V150.4c0-3.4,2.8-7.8,6.3-9.9l79-46.4c3.6-2.1,6.4-1,6.4,2.4v31.3C110.5,131.2,107.7,135.7,104.1,137.7Z"
+                fill="#00d383" />
+            <path class="it-btr"
+                d="M104.1,84.8l-79,46.4c-3.5,2.1-6.3,1-6.3-2.4V97.5c0-3.4,2.8-7.9,6.3-10l79-46.4c3.6-2,6.4-.9,6.4,2.5V74.8C110.5,78.3,107.7,82.7,104.1,84.8Z"
+                fill="#00d383" />
+            <path class="it-btr" d="M25.3,33.7a6.5,6.5,0,0,0-6.5,6.5V74.9c0,3.4,2.8,4.5,6.3,2.4L99.4,33.7Z" fill="#00d383" />
+        </g>
+    </g>
+</svg>

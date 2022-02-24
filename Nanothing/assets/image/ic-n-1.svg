@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.4 346.6">
+
+<style>
+
+     .line-ani {animation:line-ani 1s linear infinite; stroke-dasharray: 30; stroke-dashoffset: 57; opacity: 1;}
+     @keyframes line-ani {
+         0% {opacity: 1;stroke-dashoffset: 57;}
+         10% {opacity: 1;}
+         50%{opacity: 0;}
+         90%{opacity:1;}
+         100%{opacity:1;stroke-dashoffset: 0;}
+     }
+     @media (prefers-reduced-motion: reduce) {
+         .line-ani {
+             animation: none;
+         }
+     }
+    
+</style>
+    <title>ic-n-1</title>
+    <g id="aab8b8a4-d12f-4998-b4bc-8fe9fd5dcddf" data-name="Layer 2">
+        <g id="aec9a340-4234-43b4-a04b-2692c48af6bd" data-name="Layer 1">
+            <path class="line-ani" d="M497.9,114,386.6,326.9h81.5L453.9,448,579.4,268.1H483Z" transform="translate(-380.3 -107.7)"
+                fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.6" />
+        </g>
+    </g>
+
+</svg>

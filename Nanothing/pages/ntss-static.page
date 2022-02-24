@@ -1,0 +1,171 @@
+<div class="sub-page-title">
+        <canvas id="map"></canvas>
+        <div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+              <div class="section-heading-14 text-center">
+                <div class="logo-title">
+                  <img src="assets/image/ntss/logo-ntss.png" alt="">
+                </div>
+                <h1>Static Temperature Monitoring</h1>
+                <p>The world’s first standard for autonomous static temperature monitoring</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+
+    <div class="clients-area-l8">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xxl-7 col-xl-7 col-lg-8 col-md-9">
+                  <div class="section__heading text-center pb-lg-5">
+                    <h4>NTSS for static temperature monitoring is a much simpler version of the NTSS standard, designed for use cases that don’t involve transportation</h3><br>
+                    <h4>See what you can do with NTSS for Static Monitoring below.</>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="container">
+          
+          <div class="row justify-content-center clients-l8-items">
+            <div class="col-lg-4 col-md-6 col-sm-10">
+              <div class="client-l8-card">
+                <div class="image">
+                  <img src="assets/image/ntss-static/1-2.png" alt="image">
+                </div>
+                <div class="content">
+                  <h4>Inventory Monitoring</h4>
+                  <p>NTSS is designed to support high volume applications like inventory monitoring. NTSS automatically performs validation checks against all uplinks to check for missed data packets. If a packet was sent from the device but not received by the cloud, NTSS will automatically downlink to the device and request that specific packet again until it has been received. </p>
+                </div>
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-10">
+              <div class="client-l8-card">
+                <div class="image">
+                  <img src="assets/image/ntss-static/4_1.png" alt="image">
+                </div>
+                <div class="content">
+                    <h4>Static Asset Monitoring</h4>
+                    <p>NTSS provides a simple and effective approach to static asset monitoring by leveraging geofencing capabilities to confirm that an asset is still at the expected location. If an asset moves outside of the geofence, NTSS will send an alert that the asset  moved. Although more complex and not recommended for indoor use, NTSS can also leverage time difference of arrival (triangulation) to approximate where an asset is within a defined area. </p>
+                  </div>
+                  
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-10">
+              <div class="client-l8-card">
+                <div class="image">
+                  <img src="assets/image/ntss-static/1111.png" alt="image">
+                </div>
+                <div class="content">
+                    <h4>Facility Monitoring</h4>
+                    <p>NTSS enables remote configurability and reconfigurability of devices, supporting enterprises with the flexibility they need to support ever changing customer requirements.</p>
+                  </div>
+                  
+              </div>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+
+
+    <div class="content-area-l10-3 bg-blue">
+      <div class="content-area-l10-2-shape-1" style="background-color: #fff;">
+          <img src="assets/image/l1/shape2.svg" alt="" class="w-100">
+        </div>
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-lg-10 col-md-12 pt-lg-5 mt-lg-4">
+              <div class="content section__heading text-center">
+                  <h2>Features</h2>
+              </div>
+          </div>
+          
+        </div>
+        <div class="row feature-l-11-items justify-content-center">
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/icon-6.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Data Loss Protection</h5>
+                <p>Automatic server side acknowledgments and requests for missing data packets.</p>
+              </div>
+            </div>
+          </div>
+          
+          
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/ntss-static/3.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Remote Configurability</h5>
+                <p>Devices are easily configured and reconfigured by remotely downlinking to the device.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/check.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Health Messages</h5>
+                <p>Pre-activation daily health messages provide device health prior to use. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/icon-3.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Battery Life Monitoring</h5>
+                <p>Battery voltage is sent with every uplink.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/ntss-static/1.svg" alt="">
+              </div>
+              <div class="content-body">
+                <h5>Geofencing</h5>
+                <p>Location confirmation by geofencing around known gateways. Advanced geofencing can be used to approximate distance from gateway. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="d-flex ">
+              <div class="icon-box">
+                <img src="assets/image/ntss-static/2.svg" alt="">
+                <!-- <i class="icon icon-pen-01"></i> -->
+              </div>
+              <div class="content-body">
+                <h5>Battery Drain Mode</h5>
+                <p>Devices can be remotely sent into high power mode to quickly drain remaining battery for safe disposal.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+      
+      <div class="price-l10-shape" style="background-color: #2aace3 ">
+          <img src="assets/image/l1/price-black-shape.svg" alt="" class="w-100">
+        </div>
+  </div>
+
+
+<squarespace:script src="three.js" />
+  <squarespace:script src="tween.js" />
+  <squarespace:script src="globe-map.js" />

@@ -1,0 +1,354 @@
+<div class="hero-area-l1 ntss-page  position-relative background-property">
+      <!-- <div class="bg-shape">
+        <img src="assets/image/BG-shape.png" alt="">
+      </div> -->
+      <div class="ani-img">
+        <img src="assets/image/ntss-banner.svg" alt="">
+      </div>
+      <div class="container">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10 order-lg-1 order-1">
+            <div class="content text-center">
+              <h2>Autonomous source-to-store temperature monitoring powered by a new sensor standard</h2>
+              <!-- <p>Autonomous source-to-store temperature monitoring powered by a new sensor standard</p> -->
+              <!-- <div class="l1-create-acc-btn">
+                <a data-fancybox data-type="pdf" href="assets/image/test.pdf" class="btn btn-style-02">Read the Whitepaper<i class="fas fa-angle-right"></i></a>
+              </div> -->
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+
+
+    
+
+    <div class="content-area-l10-3 bg-blue">
+      <!-- <div class="content-area-l10-2-shape-1" style="background-color: #F9FAFB;">
+          <img src="assets/image/l1/shape2.svg" alt="" class="w-100">
+        </div> -->
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-lg-10 col-md-12 pt-lg-5 mt-lg-4">
+              <div class="content section__heading text-center">
+                <h3>What is NTSS?</h3>
+                  <h2>NTSS is the world’s first standard for transmitting temperature and cold chain event data across the cold chain.</h2>
+              </div>
+          </div>
+          
+        </div>
+      </div>
+      <div class="price-l10-shape" style="background-color: #2aace3 ">
+          <img src="assets/image/l1/price-black-shape.svg" alt="" class="w-100">
+        </div>
+  </div>
+
+
+  
+
+  <div class="clients-area-l8 pb-0 pt-0">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9">
+              <div class="section__heading text-center pb-lg-5">
+                  <h2> The NTSS Ecosystem at a Glance</h2>
+                <p>NTSS unifies the hardware ecosystem by standardizing the way devices operate and communicate over LoRaWAN. The result is a trustworthy single output that the industry can rely on for consistency and accuracy.</p>
+              </div>
+            </div>
+          </div>
+    </div>
+  </div>
+
+  <div class="clients-area-l8 pt-0">
+    <div class="container">
+      
+      <div class="row justify-content-center clients-l8-items">
+        <!-- <div class="col-lg-4 col-md-6 col-sm-10">
+          <div class="client-l8-card">
+            <div class="image">
+              <img src="assets/image/ntss/ic-ntss/1.svg" alt="image">
+            </div>
+            <div class="content">
+              <h4>Gateway To The Cloud</h4>
+              <p>LoRaWAN gateways are “access points” by which data is received from NanoTags and sent to the cloud. Gateways are a required part of the NanoThings solution. </p>
+            </div>
+            
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-10">
+          <div class="client-l8-card">
+            <div class="image">
+              <img src="assets/image/ntss/ic-ntss/3.svg" alt="image">
+            </div>
+            <div class="content">
+                <h4>Single Site Geofencing</h4>
+                <p>Geofencing at a single site enables real-time yard monitoring, in-facility monitoring, and autonomous arrival and departure notifications. 
+
+                    NanoThings’ enterprise grade geofencing solutions can be customized to fit any size. <br><br>
+                    
+                    <strong>Small Example:</strong> 1,000 sq. foot store<br>
+                    
+                    <strong>Medium Example:</strong> 30 million cubic foot distribution center<br>
+                    
+                    <strong>Large Example:</strong> 3 mile radius around a port</p>
+              </div>
+              
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-10">
+          <div class="client-l8-card">
+            <div class="image">
+              <img src="assets/image/ntss/ic-ntss/2.svg" alt="image">
+            </div>
+            <div class="content">
+                <h4>Multi Site Geofencing</h4>
+                <p>Geofencing across two or more sites enables full transparency between connected sites, including autonomous temperature and damage monitoring between facilities with automatic departure and arrival time stamps. <br><br>
+                    In addition, NanoThings uses machine learning to identify where assets are within a geofence. For example, NanoThings can identify the difference between a shipment sitting in the yard versus a shipment being serviced. </p>
+              </div>
+              
+          </div>
+        </div> -->
+        <div class="col-xl-11 pb-5">
+          <div class="img-ntss text-center">
+            <img src="assets/image/ntss-2.svg" alt="">
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    
+</div>
+
+
+
+
+    <div class="content-area-l10-3 bg-blue">
+        <div class="content-area-l10-2-shape-1" style="background-color: #fff;">
+            <img src="assets/image/l1/shape2.svg" alt="" class="w-100">
+          </div>
+          <div class="container pt-5 pb-3">
+            <div class="row justify-content-center">
+                <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12">
+                  <div class="section__heading text-center">
+                      <h2> Connecting the Chain Through Events</h2>
+                    <p>Events describe an objective action that has taken place in the cold chain. Standardizing actionable data through Events takes the ambiguity out of cold chain monitoring and reporting by creating an autonomous third party governance structure that cannot be manipulated or suppressed by any individual or entity in the chain.</p><br>
+                    <p>Before the creation of Events, the cold chain industry had no standard by which to describe or quantify actions happening in the cold chain. For example, a shipment could be rejected for arriving “late” without requiring any proof. Moreover, there was no predefined agreement as to what the definition of late was. Another common occurrence was the misnomer that a temperature alert was automatic grounds for a rejection.  Shipments would commonly be rejected for going out of temperature spec for a few minutes, while others would go out of spec for hours and be accepted. </p><br>
+                    <p>NTSS ensures that all shipments are treated equally.</p>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-10 col-md-12 pt-lg-5 mt-lg-4">
+                <div class="content section__heading text-center">
+                    <h2>Key NTSS Event Detections</h2>
+                </div>
+            </div>
+            
+          </div>
+          <div class="row feature-l-11-items justify-content-center">
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/1.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Origin</h5>
+                  <p>Product is at the origin</p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/2.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>In-Transit</h5>
+                  <p>Product has left the Origin and is now in-transit</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/3.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Destination</h5>
+                  <p>Product has arrived to the Destination</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/4.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Unload</h5>
+                  <p>Product has arrived to the Destination and has been unloaded (change in custody)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/5.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Rejection</h5>
+                  <p>Product arrived to the Destination and was returned to Origin</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/6.png" alt="">
+                  <!-- <i class="icon icon-pen-01"></i> -->
+                </div>
+                <div class="content-body">
+                  <h5>Arrival Yard</h5>
+                  <p>Product has arrived to the Destination but has not been unloaded yet</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/7.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Pairing</h5>
+                  <p>Device has been activated and paired to a product</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/8.png" alt="">
+                </div>
+                <div class="content-body">
+                  <h5>Temperature Alert</h5>
+                  <p>Product has gone above or below the configured temperature threshold </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="d-flex ">
+                <div class="icon-box">
+                  <img src="assets/image/ntss/new-ic/9.png" alt="">
+                  <!-- <i class="icon icon-pen-01"></i> -->
+                </div>
+                <div class="content-body">
+                  <h5>Arrival Delay</h5>
+                  <p>Product has not arrived on schedule </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        
+        
+        <div class="price-l10-shape" style="background-color: #2aace3 ">
+            <img src="assets/image/l1/price-black-shape.svg" alt="" class="w-100">
+          </div>
+    </div>
+
+
+   
+
+    <div class="feature-l-11">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xl-9 px-lg-12 col-md-12">
+            <div class="row justify-content-center">
+              <div class="col-lg-10 text-center">
+                <div class="section__heading">
+                  <h2>
+                    NTSS Features
+                  </h2>
+                  
+                </div>
+              </div>
+            </div>
+            <div class="row feature-l-11-items justify-content-center">
+              <div class="col-md-6">
+                <div class="d-flex ">
+                  <div class="icon-box">
+                    <img src="assets/image/ic-n-1.svg" alt="">
+                    <!-- <i class="icon icon-pen-01"></i> -->
+                  </div>
+                  <div class="content-body">
+                    <h5>Power Management</h5>
+                    <p>Automatic power management optimizes battery life across any application</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex ">
+                  <div class="icon-box">
+                    <img src="assets/image/icon-6.svg" alt="">
+                  </div>
+                  <div class="content-body">
+                    <h5>Data Loss Prevention</h5>
+                    <p>Automated bi-directional data loss prevention   </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex ">
+                  <div class="icon-box">
+                    <img src="assets/image/radar.svg" alt="">
+                  </div>
+                  <div class="content-body">
+                    <h5>Event Detections</h5>
+                    <p>Autonomous pairing, departure, in-transit, delayed arrival, arrival, and temperature alert event detections</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex ">
+                  <div class="icon-box">
+                    <img src="assets/image/check.svg" alt="">
+                  </div>
+                  <div class="content-body">
+                    <h5>Health Checks</h5>
+                    <p>Configurable automatic diagnostic checks </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex ">
+                  <div class="icon-box">
+                    <img src="assets/image/icon-3.svg" alt="">
+                  </div>
+                  <div class="content-body">
+                    <h5>Battery Drain Mode</h5>
+                    <p>Automatic battery drain at final destination or custom configurable at any event</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex ">
+                  <div class="icon-box">
+                    <img src="assets/image/clipboard.svg" alt="">
+                  </div>
+                  <div class="content-body">
+                    <h5>Failsafes</h5>
+                    <p>Protection against improper configurations </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>

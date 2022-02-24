@@ -1,0 +1,149 @@
+<!-- FAQ Area -->
+    <div class="faq-main-banner">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xxl-7 col-xl-9 col-lg-10 col-md-12">
+              <div class="section-heading-14 text-center">
+                <h2>Frequently Asked Questions</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Content Area -->
+      <div class="faq-main-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3">
+              <div class="faq-main-tab-area sticky">
+                <ul class="list-unstyled">
+                  <li class="active"><a href="#general">General FAQs</a></li>
+                  <li><a href="#ntss">NTSS FAQs</a></li>
+                  <li><a href="#lorawan">LoRaWAN FAQs</a></li>
+                  <li><a href="#nanotag">NanoTag FAQs</a></li>
+                  <li><a href="#pricing">Pricing FAQs</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-6 col-lg-8 col-md-10 faq-single-all-items">
+              <div class="faq-main-area-single" id="general">
+                <h2>General FAQs</h2>
+                <ul class="accordion p-0">
+                  <li class="active">
+                    <a class="active">What is NanoThings?</a>
+                    <p style="display: block;">NanoThings is a supply/cold chain monitoring solution that utilizes proprietary sensor technology, called NanoTags, to enable what we call source-to-store traceability.</p>
+                  </li>
+                  <li>
+                    <a>What is the difference between NanoThings and the NanoTag?</a>
+                    <p>NanoThings is the name of our company and how customers and partners generally refer to the solution as a whole. The NanoTag is the name of our sensor.</p>
+                  </li>
+                  <li>
+                    <a>Will NanoThings install gateways for me?</a>
+                    <p>Indoor gateways are simple to self install. Outdoor gateway installations are more involved, so we recommend using an onsite engineer. If you don’t have an engineer, NanoThings can provide free virtual guidance through the installation process. Please note, outdoor installations will require standard tools like a screwdriver and wrench. In limited instances, NanoThings will provide onsite installation support.</p>
+                  </li>
+                  <li>
+                    <a>What is a transmission?</a>
+                    <p>A transmission is any time the NanoTag sends or receives data. For example, if you want the NanoTag to transmit new temperature readings every 10 minutes, that would be one transmission every 10 minutes.</p>
+                  </li>
+                </ul>
+              </div>
+              <div class="faq-main-area-single" id="ntss">
+                <h2>NTSS FAQs</h2>
+                <ul class="accordion p-0">
+                  <li>
+                    <a>What is NTSS?</a>
+                    <p>NTSS is a device standard, or in layman’s terms, it’s the software that lives inside the device, plus the cloud infrastructure software. If you’re not an engineer, you probably still don’t get it. Just think that all connected devices have software inside that allows them to function. Your smartphone would not be very smart if it didn’t have extremely sophisticated software inside that allows you to do all the weird things you do on it. Likewise, we built a special software that can be embedded into any compatible temperature monitoring device (not just the NanoTag), which allows the device to perform complex temperature monitoring operations without any human help. </p>
+                  </li>
+                  <li>
+                    <a>How do I make my device NTSS certified?</a>
+                    <p>Please refer to the NTSS documentation for a full list of requirements. </p>
+                  </li>
+                  <li>
+                    <a>How do I access data?</a>
+                    <p>Data from any NTSS certified device is accessible via the NanoThings API. Please refer to the NanoThings API documentation for integration instructions. </p>
+                  </li>
+                  <li>
+                    <a>What data do I get access to?</a>
+                    <p>That’s a loaded question. It’s best if you refer to the API documentation. NanoTags capture and transmit a lot of different data, temperature readings being one of them :)</p>
+                  </li>
+                  <li>
+                      <a>Can I get real-time data?</a>
+                      <p>It depends. Unfortunately there isn’t nationwide public LoRaWAN coverage yet. It’s still a very new protocol that doesn’t have the 30+ years that cellular has had to build the required infrastructure. That said, most major cities and metropolitan areas have coverage. And if you’re a fleet owner, adding gateways to a vehicle is a great way of providing real time coverage for any of the products you’re shipping. Otherwise, the best option is to add connectivity to key touch points in your cold chain. Gateways at key touch points act as offload points for the NanoTags, if they’ve been storing data. </p>
+                  </li>
+                </ul>
+              </div>
+              <div class="faq-main-area-single" id="lorawan">
+                <h2>LoRaWAN FAQs</h2>
+                <ul class="accordion p-0">
+                  <li>
+                    <a>What is LoRaWAN?</a>
+                    <p>LoRaWAN stands for Long Range Wide Area Network. It’s simply the brand name of the wireless protocol NanoTags use to communicate over.</p>
+                  </li>
+                  <li>
+                    <a>Why is LoRaWAN better than cellular or bluetooth or any other RF protocol?</a>
+                    <p>Every wireless protocol has its pros and cons. Cellular is fantastic for data heavy personal devices, but it’s far too power hungry and expensive for most IoT devices. Bluetooth is great for short range device to device communication and it’s completely free, but it’s not long range enough to be conducive for most industrial needs. LoRaWAN is great for long range, low power device to device communication, but it has limited bandwidth (you can’t stream Netflix over it). We’ve found LoRaWAN to be a perfect protocol for enterprise grade temperature monitoring. </p>
+                  </li>
+                  <li>
+                      <a>What are gateways?</a>
+                      <p>Gateways can be thought of as “readers” or “routers” in the sense that all LoRaWAN compatible devices (like the NanoTag) must communicate with a gateway in order to transmit data to the cloud.  If you think about it, every wireless device in the world requires a gateway-like component to get data to the cloud. Even your cell phone must talk to a cell tower, which is just a huge gateway.</p>
+                    </li>
+                    <li>
+                        <a>Where do I need gateways?</a>
+                        <p>We recommend putting gateways anywhere you need real time data access. Common places include production facilities, distribution centers, stores, ports, vehicles, etc. </p>
+                    </li>
+                </ul>
+              </div>
+              <div class="faq-main-area-single" id="nanotag">
+                <h2>NanoTag FAQs</h2>
+                <ul class="accordion p-0">
+                  <li>
+                    <a>Do NanoTags use cellular to communicate?</a>
+                    <p>No. NanoTags utilize a wireless protocol called LoRaWAN to communicate. LoRaWAN is a really cool wireless standard for IoT (machine to machine communication). Read above.</p>
+                  </li>
+                  <li>
+                    <a>Do NanoTags have GPS?</a>
+                    <p>No. </p>
+                  </li>
+                  <li>
+                    <a>How do NanoTags determine location without GPS?</a>
+                    <p>Powering every NanoTag is NTSS, a new temperature monitoring standard that comprises logic to recognize known gateway installations. NTSS can infer the approximate location of a NanoTag by pinging transmissions off of known gateway locations. It will never be as accurate as GPS, but most customers do not need meter level accuracy. </p>
+                  </li>
+                  <li>
+                      <a>How far can a NanoTag transmit?</a>
+                      <p>Transmit range depends on a wide number of factors, but the two main factors are the number of obstacles directly in between the NanoTag and the gateway, and what material those obstacles are made out of. With a direct, unobstructed line of sight, a NanoTag could talk to a well placed gateway 10 or more miles away. But those are ideal circumstances that don’t exist much in the world of logistics. It’s more common to assume that a NanoTag will be in a sealed truck, container, vessel, or some other enclosure with lots of metal. In these cases, you can expect up to a mile of range.</p>
+                  </li>
+                  <li>
+                      <a>Do I need to return or recharge NanoTags?</a>
+                      <p>Nope. NanoTags are not rechargeable and are designed to be safely disposable, but you can reuse a NanoTag if you’ve subscribed to NTSS Advanced. When disposing of a NanoTag please recycle it with other electronics, or dispose of it in accordance with local regulations. Keep in mind, there is a battery inside. </p>
+                  </li>
+                  <li>
+                      <a>How long is the NanoTag’s battery life?</a>
+                      <p>The NanoTag is optimized to support ultra long active battery life. The best way to think about battery life is in number of transmissions. Transmitting data consumes the highest amount of battery life in any active device. The NanoTag can transmit 50,000 times at 42°F. That number will slightly increase in warmer temperatures, and it will slightly decrease in colder temperatures. </p>
+                  </li>
+                  <li>
+                      <a>If I only want to transmit once every day, does that mean the NanoTag will live for 135 five years?</a>
+                      <p>Unlikely… All batteries have a natural loss rate. So you can expect the battery to degrade by 2-5% each year. In addition, NanoTags consume a very small amount of battery even when not in use. Plus, you won’t live long enough to find out. </p>
+                  </li>
+                </ul>
+              </div>
+              <div class="faq-main-area-single" id="pricing">
+                <h2>Pricing FAQs</h2>
+                <ul class="accordion p-0">
+                  <li>
+                    <a>How much do NanoTags cost?</a>
+                    <p>If you purchase NanoTags directly from NanoThings, the cost will vary depending on volume and prevailing market conditions. If you purchase NanoTags directly from our manufacturer, then the cost will be determined by your negotiation skills ;) </p>
+                  </li>
+                  <li>
+                      <a>How much do gateways cost?</a>
+                      <p>Gateways range drastically in price. We’ve seen gateways price as low as $100, and as high as $2,000. Be careful when choosing gateways. There are many different makes and models. Some are better than others. If you plan to buy your own gateways, we recommend consulting with a NanoThings representative, who can provide some worthwhile insider advice. There are some bad apples out there. If you would like NanoThings to purchase the gateways on your behalf, we are happy to do so, but you will incur a small markup for our services. </p>
+                  </li>
+                  <li>
+                      <a>Do I have to pay connectivity fees?</a>
+                      <p>That depends. If you utilize your own network server, then we have no control over what, if any connectivity costs you incur. If you utilize one of our official network server partners, then we’ll cover the cost of network fees (in reality we’ve already baked it into the cost of your NanoTags).</p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>

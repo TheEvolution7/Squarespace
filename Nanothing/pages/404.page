@@ -1,0 +1,18 @@
+ <!-- 404 page Area -->
+    <div class="error-page">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10">
+            <div class="error-page-content text-center">
+              
+              <h2>404 Error!</h2>
+              <p><squarespace:block-field id="blockField1" columns="12" lock-layout="true"/></p>
+              
+              <div class="back-to-btn">
+                <a href="/"><button class="btn focus-reset">Go back to Home</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
